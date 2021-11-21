@@ -6,7 +6,7 @@ Education data is collected from the web using the `beautifulsoup4` package. The
 
 1. **nces_scraper.py:** Customized web-scraping functions
 2. **collect_school_data.py:** Uses the functions nces scraper functions to iterate through schools to collect data
-3. **process_school_data.py:** Basic processing to demonstrate sample analyses to be completed with education data
+3. **process_school_data.py:** Basic processing to demonstrate sample analyses that could be completed with education data
 
 ### Data collected
 
