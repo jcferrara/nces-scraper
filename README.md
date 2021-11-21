@@ -4,9 +4,9 @@
 ### Methodology
 Education data is collected from the web using the `beautifulsoup4` package. The scraper cycles through each of the 3,500+ degree-granting colleges in the United States to grab and store school metrics like total enrollment, address, faculty-to-student ratios, etc.
 
-1. **nces_scraper.py:** Customized web-scraping functions
-2. **collect_school_data.py:** Uses the functions nces scraper functions to iterate through schools to collect data
-3. **process_school_data.py:** Basic processing to demonstrate sample analyses that could be completed with education data
+* **nces_scraper.py:** Customized web-scraping functions
+* **collect_school_data.py:** Uses the functions nces scraper functions to iterate through schools to collect data
+* **process_school_data.py:** Basic processing to demonstrate sample analyses that could be completed with education data
 
 ### Data collected
 
