@@ -1,0 +1,2691 @@
+degree_name,degree_category,stem
+"Agricultural/Animal/Plant/Veterinary Science and Related Fields, Other","Agricultural/Animal/Plant/Veterinary Science
+",Yes
+"Animal Sciences, Other","Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Food Science,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+"City/Urban, Community, and Regional Planning","Architecture and Related Services
+",No
+"Ethnic, Cultural Minority, Gender, and Group Studies, Other","Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+"Biology/Biological Sciences, General","Biological and Biomedical Sciences
+",Yes
+Accounting,"Business
+",No
+"Business Administration and Management, General","Business
+",No
+Entrepreneurship/Entrepreneurial Studies,"Business
+",No
+"Finance, General","Business
+",No
+"Logistics, Materials, and Supply Chain Management","Business
+",No
+"Marketing/Marketing Management, General","Business
+",No
+"Communication and Media Studies, Other","Communications and Journalism
+",Yes
+Radio and Television Broadcasting Technology/Technician,"Communications and Journalism
+",No
+"Computer and Information Sciences, General","Computer and Information Sciences
+",Yes
+Art Teacher Education,Education,No
+Early Childhood Education and Teaching,Education,No
+"Education, General",Education,No
+Education/Teaching of Individuals with Speech or Language Impairments,Education,No
+"Educational Leadership and Administration, General",Education,No
+Elementary Education and Teaching,Education,No
+Physical Education Teaching and Coaching,Education,No
+Reading Teacher Education,Education,No
+Secondary Education and Teaching,Education,No
+"Special Education and Teaching, General",Education,No
+"Civil Engineering, General",Engineering,Yes
+Electrical and Electronics Engineering,Engineering,Yes
+"Engineering, Other",Engineering,Yes
+Mechanical Engineering,Engineering,Yes
+Construction Engineering Technology/Technician,Engineering,Yes
+"English Language and Literature, General","English Language and Literature
+",No
+"Family and Consumer Sciences/Human Sciences, General","Family and Human Sciences
+",No
+Speech-Language Pathology/Pathologist,"English Language and Literature
+",No
+Criminal Justice/Law Enforcement Administration,"Law Enforcement, Firefighting and Related
+",No
+General Studies,"Liberal Arts and Humanities
+",No
+"Mathematics, General","Mathematics and Statistics
+",Yes
+"Forestry, Other","Natural Resources and Conservation
+",Yes
+Exercise Science and Kinesiology,"Health and Kinesiology
+",No
+Sport and Fitness Administration/Management,"Health and Kinesiology
+",No
+"Chemistry, General","Biological and Biomedical Sciences
+",Yes
+"Physics, General","Physical Sciences
+",Yes
+"Physics, Other","Physical Sciences
+",Yes
+Counseling Psychology,"Psychology
+",No
+"Psychology, General","Psychology
+",Yes
+Social Work,"Public Administration and Social Service
+",No
+"Political Science and Government, General","Public Administration and Social Service
+",No
+"Sociology, General","Social Sciences
+",No
+"Art/Art Studies, General","Visual and Performing Arts
+",No
+"Music, General","Visual and Performing Arts
+",No
+"Business/Corporate Communications, General","Business
+",No
+"Human Resources Management/Personnel Administration, General","Business
+",No
+Information Resources Management,"Business
+",Yes
+"Management Information Systems and Services, Other","Business
+",Yes
+"Management Information Systems, General","Business
+",Yes
+Organizational Leadership,"Business
+",No
+Family and Community Services,"Family and Human Sciences
+",No
+"Human Development and Family Studies, General","Family and Human Sciences
+",No
+Marriage and Family Therapy/Counseling,"Family and Human Sciences
+",No
+Criminal Justice/Safety Studies,"Law Enforcement, Firefighting and Related
+",No
+Liberal Arts and Sciences/Liberal Studies,"Liberal Arts and Humanities
+",No
+Christian Studies,"Philosophy and Religious Studies
+",No
+Bible/Biblical Studies,"Philosophy and Religious Studies
+",No
+Divinity/Ministry,"Philosophy and Religious Studies
+",No
+Pastoral Studies/Counseling,"Philosophy and Religious Studies
+",No
+"Theological and Ministerial Studies, Other","Philosophy and Religious Studies
+",No
+Agricultural Economics,"Agricultural/Animal/Plant/Veterinary Science
+",No
+"Agriculture, General","Agricultural/Animal/Plant/Veterinary Science
+",No
+Agronomy and Crop Science,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+"Animal Sciences, General","Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Aquaculture,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Horticultural Science,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+"Plant Sciences, Other","Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Poultry Science,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Veterinary Medicine,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Architecture,"Architecture and Related Services
+",Yes
+Environmental Design/Architecture,"Architecture and Related Services
+",Yes
+Interior Architecture,"Architecture and Related Services
+",No
+Landscape Architecture,"Architecture and Related Services
+",No
+Real Estate Development,"Business
+",No
+"Biomedical Sciences, General","Biological and Biomedical Sciences
+",Yes
+Biotechnology,"Biological and Biomedical Sciences
+",Yes
+Exercise Physiology and Kinesiology,"Health Professions and Related
+",Yes
+Marine Biology and Biological Oceanography,"Biological and Biomedical Sciences
+",Yes
+Medical Microbiology and Bacteriology,"Biological and Biomedical Sciences
+",Yes
+Neuroscience,"Biological and Biomedical Sciences
+",Yes
+Business/Managerial Economics,"Business
+",No
+"Hospitality Administration/Management, General","Business
+",No
+International Business/Trade/Commerce,"Business
+",No
+Management Science,"Business
+",No
+Journalism,"Communications and Journalism
+",No
+Mass Communication/Media Studies,"Communications and Journalism
+",No
+Public Relations/Image Management,"Communications and Journalism
+",No
+Computer and Information Systems Security/Auditing/Information Assurance,"Computer and Information Sciences
+",Yes
+Computer Science,"Computer and Information Sciences
+",Yes
+Counselor Education/School Counseling and Guidance Services,"Education
+",No
+Educational/Instructional Technology,"Education
+",No
+English/Language Arts Teacher Education,"Education
+",No
+Foreign Language Teacher  Education,"Education
+",No
+Mathematics Teacher Education,"Education
+",No
+Music Teacher Education,"Education
+",No
+Science Teacher Education/General Science Teacher Education,"Education
+",No
+Social Science Teacher Education,"Education
+",No
+"Special Education and Teaching, Other","Education
+",No
+"Teacher Education, Multiple Levels","Education
+",No
+Technical Teacher Education,"Education
+",No
+"Aerospace, Aeronautical, and Astronautical/Space Engineering, General",Engineering,Yes
+Architectural Engineering,Engineering,Yes
+Biological/Biosystems Engineering,Engineering,Yes
+Chemical Engineering,Engineering,Yes
+"Computer Engineering, General",Engineering,Yes
+"Engineering, General",Engineering,Yes
+Industrial Engineering,Engineering,Yes
+Materials Engineering,Engineering,Yes
+Polymer/Plastics Engineering,Engineering,Yes
+Engineering/Industrial Management,Engineering,Yes
+"Professional, Technical, Business, and Scientific Writing","Business
+",No
+Apparel and Textile Marketing Management,"Business
+",No
+"Family and Consumer Sciences/Human Sciences, Other","Family and Human Sciences
+",No
+"Foods, Nutrition, and Related Services, Other","Agricultural/Animal/Plant/Veterinary Science
+",No
+"Human Development, Family Studies, and Related Services, Other","Family and Human Sciences
+",No
+French Language and Literature,"Foreign Language and Literature
+",No
+German Language and Literature,"Foreign Language and Literature
+",No
+Spanish Language and Literature,"Foreign Language and Literature
+",No
+Audiology/Audiologist and Speech-Language Pathology/Pathologist,"English Language and Literature
+",No
+Clinical Laboratory Science/Medical Technology/Technologist,"Biological and Biomedical Sciences
+",Yes
+"Clinical/Medical Laboratory Science and Allied Professions, Other","Biological and Biomedical Sciences
+",Yes
+Health/Health Care Administration/Management,"Business
+",No
+Nursing Practice,Nursing and Related,No
+Pharmaceutics and Drug Design,"Biological and Biomedical Sciences
+",Yes
+Pharmacy,"Biological and Biomedical Sciences
+",Yes
+Registered Nursing/Registered Nurse,Nursing and Related,No
+"History, General",History,No
+Legal Studies,"Legal Professions and Studies
+",No
+"Liberal Arts and Sciences, General Studies and Humanities, Other","Liberal Arts and Humanities
+",No
+"Applied Mathematics, General","Mathematics and Statistics
+",Yes
+"Statistics, General","Mathematics and Statistics
+",Yes
+"Multi-/Interdisciplinary Studies, General","Multi/Interdisciplinary Studies
+",No
+Nutrition Sciences,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Environmental Science,"Natural Resources and Conservation
+",Yes
+Environmental/Natural Resource Recreation and Tourism,"Natural Resources and Conservation
+",No
+"Environmental/Natural Resources Management and Policy, General","Natural Resources and Conservation
+",No
+Forest Sciences and Biology,"Natural Resources and Conservation
+",Yes
+"Natural Resources/Conservation, General","Natural Resources and Conservation
+",Yes
+"Wildlife, Fish and Wildlands Science and Management","Natural Resources and Conservation
+",Yes
+Philosophy,"Philosophy and Religious Studies
+",No
+"Geological and Earth Sciences/Geosciences, Other","Natural Resources and Conservation
+",Yes
+"Geology/Earth Science, General","Natural Resources and Conservation
+",Yes
+Clinical Psychology,"Psychology
+",No
+Industrial and Organizational Psychology,"Psychology
+",No
+Public Administration,"Public Administration and Social Service
+",No
+"Anthropology, General","Social Sciences
+",No
+"Economics, General","Business
+",No
+Geographic Information Science and Cartography,"Natural Resources and Conservation
+",Yes
+Geography,"Natural Resources and Conservation
+",No
+Airline/Commercial/Professional Pilot and Flight Crew,"Transportation and Materials Moving
+",No
+Aviation/Airway Management and Operations,"Transportation and Materials Moving
+",Yes
+"Design and Applied Arts, Other","Visual and Performing Arts
+",No
+"Design and Visual Communications, General","Communications and Journalism
+",No
+"Drama and Dramatics/Theatre Arts, General","Visual and Performing Arts
+",No
+"Fine/Studio Arts, General","Visual and Performing Arts
+",No
+Industrial and Product Design,"Business
+",No
+Interior Design,"Architecture and Related Services
+",No
+"Administrative Assistant and Secretarial Science, General",Other Trade,No
+Electrician,Other Trade,No
+Salon/Beauty Salon Management/Manager,Other Trade,No
+"Drafting and Design Technology/Technician, General","Architecture and Related Services
+",Yes
+"Heating, Ventilation, Air Conditioning and Refrigeration Engineering Technology/Technician",Other Trade,Yes
+Instrumentation Technology/Technician,"Visual and Performing Arts
+",No
+Child Care and Support Services Management,Education,No
+Emergency Medical Technology/Technician (EMT Paramedic),"Law Enforcement, Firefighting and Related
+",No
+Licensed Practical/Vocational Nurse Training,Nursing and Related,No
+Surgical Technology/Technologist,"Health and Kinesiology
+",No
+Autobody/Collision and Repair Technology/Technician,Other Trade,No
+Automobile/Automotive Mechanics Technology/Technician,Other Trade,No
+Diesel Mechanics Technology/Technician,Other Trade,No
+Industrial Electronics Technology/Technician,Other Trade,No
+"Vehicle Maintenance and Repair Technology/Technician, General",Other Trade,No
+Tool and Die Technology/Technician,Other Trade,No
+Welding Technology/Welder,Other Trade,Yes
+Truck and Bus Driver/Commercial Vehicle Operator and Instructor,Other Trade,No
+Accounting Technology/Technician and Bookkeeping,Other Trade,No
+"Business/Commerce, General","Business
+",No
+"Graphic Communications, Other","Communications and Journalism
+",No
+Barbering/Barber,Other Trade,No
+"Cosmetology/Cosmetologist, General",Other Trade,No
+Culinary Arts/Chef Training,Other Trade,No
+"Electrical, Electronic, and Communications Engineering Technology/Technician","Engineering Technologies/Technicians
+",Yes
+Health Information/Medical Records Technology/Technician,Other Trade,No
+Medical Transcription/Transcriptionist,Other Trade,No
+Physical Therapy Assistant,Other Trade,No
+"Multi-/Interdisciplinary Studies, Other",Other Trade,No
+Manufacturing Engineering Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+Medical/Clinical Assistant,Nursing and Related,No
+Criminal Justice/Police Science,"Law Enforcement, Firefighting and Related
+",No
+Fire Services Administration,"Law Enforcement, Firefighting and Related
+",No
+"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other","Law Enforcement, Firefighting and Related
+",No
+"Music History, Literature, and Theory","Visual and Performing Arts
+",No
+Project Management,"Business
+",Yes
+Information Technology,"Computer and Information Sciences
+",Yes
+Occupational Safety and Health Technology/Technician,"Health and Kinesiology
+",Yes
+Medical Insurance Coding Specialist/Coder,Other Trade,No
+Psychiatric/Mental Health Services Technician,"Health and Kinesiology
+",No
+"Public Health, General","Health and Kinesiology
+",Yes
+Crisis/Emergency/Disaster Management,"Law Enforcement, Firefighting and Related
+",No
+Fire Science/Fire-fighting,"Law Enforcement, Firefighting and Related
+",No
+Homeland Security,"Law Enforcement, Firefighting and Related
+",No
+Environmental Studies,"Natural Resources and Conservation
+",Yes
+Biochemistry,"Biological and Biomedical Sciences
+",Yes
+Curriculum and Instruction,Education,No
+History Teacher Education,Education,No
+Clinical Pastoral Counseling/Patient Counseling,"Psychology
+",No
+"Communication Sciences and Disorders, General","Communications and Journalism
+",No
+Mental Health Counseling/Counselor,"Health and Kinesiology
+",No
+Pre-Medicine/Pre-Medical Studies,"Health and Kinesiology
+",No
+Pre-Physical Therapy Studies,"Health and Kinesiology
+",No
+Law,"Legal Professions and Studies
+",No
+Humanities/Humanistic Studies,"Liberal Arts and Humanities
+",No
+Forensic Psychology,"Psychology
+",No
+Health/Medical Psychology,"Psychology
+",No
+"Psychology, Other","Psychology
+",Yes
+"Social Sciences, General","Social Sciences
+",No
+Missions/Missionary Studies,"Philosophy and Religious Studies
+",No
+Theology/Theological Studies,"Philosophy and Religious Studies
+",No
+Youth Ministry,"Philosophy and Religious Studies
+",No
+"Microbiology, General","Biological and Biomedical Sciences
+",Yes
+Speech Communication and Rhetoric,"English Language and Literature
+",No
+"Computer/Information Technology Services Administration and Management, Other","Computer and Information Sciences
+",No
+Information Science/Studies,"Computer and Information Sciences
+",Yes
+Bioengineering and Biomedical Engineering,"Biological and Biomedical Sciences
+",Yes
+Health Information/Medical Records Administration/Administrator,"Health and Kinesiology
+",No
+Occupational Therapy/Therapist,"Health and Kinesiology
+",No
+Orthotist/Prosthetist,"Health and Kinesiology
+",No
+Physical Therapy/Therapist,"Health and Kinesiology
+",No
+"Rehabilitation and Therapeutic Professions, Other","Health and Kinesiology
+",No
+Vocational Rehabilitation Counseling/Counselor,Education,No
+Criminalistics and Criminal Science,"Law Enforcement, Firefighting and Related
+",No
+Forensic Science and Technology,"Natural Resources and Conservation
+",Yes
+"Parks, Recreation, and Leisure Facilities Management, General","Health and Kinesiology
+",No
+Forensic Chemistry,"Natural Resources and Conservation
+",Yes
+"Public Administration and Social Service Professions, Other","Public Administration and Social Service
+",No
+"Dance, General","Visual and Performing Arts
+",No
+"Purchasing, Procurement/Acquisitions and Contracts Management","Business
+",No
+Science/Technology Management,"Engineering Technologies/Technicians
+",No
+"Education, Other",Education,No
+Kindergarten/Preschool Education and Teaching,Education,No
+"Health Professions and Related Clinical Sciences, Other","Health and Kinesiology
+",No
+Behavioral Sciences,"Psychology
+",Yes
+Religion/Religious Studies,"Philosophy and Religious Studies
+",No
+"Rhetoric and Composition/Writing Studies, Other","English Language and Literature
+",No
+"Foreign Languages and Literatures, General","Foreign Language and Literature
+",No
+Clinical/Medical Laboratory Technician,"Engineering Technologies/Technicians
+",Yes
+"Physical Sciences, General","Physical Sciences
+",No
+Applied Economics,"Business
+",Yes
+"Political Science and Government, Other","Public Administration and Social Service
+",No
+"Architecture and Related Services, Other","Architecture and Related Services
+",Yes
+Asian Studies/Civilization,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+"Computer and Information Sciences,  Other","Computer and Information Sciences
+",Yes
+Pre-Engineering,"Engineering Technologies/Technicians
+",Yes
+"Health Services/Allied Health/Health Sciences, General","Health and Kinesiology
+",No
+Financial Mathematics,"Business
+",Yes
+"Social Sciences, Other","Social Sciences
+",No
+"Art History, Criticism and Conservation","Visual and Performing Arts
+",No
+Musical Theatre,"Visual and Performing Arts
+",No
+Machine Shop Technology/Assistant,Other Trade,No
+"Precision Metal Working, Other",Other Trade,No
+Landscaping and Groundskeeping,Other Trade,No
+Veterinary/Animal Health Technology/Technician and Veterinary Assistant,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+"Animation, Interactive Technology, Video Graphics, and Special Effects","Visual and Performing Arts
+",Yes
+"Cosmetology and Related Personal Grooming Arts, Other",Other Trade,No
+"Industrial Production Technologies/Technicians, Other","Engineering Technologies/Technicians
+",Yes
+Industrial Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+Dental Assisting/Assistant,Other Trade,No
+Nursing Assistant/Aide and Patient Care Assistant/Aide,Nursing and Related,No
+Legal Assistant/Paralegal,"Legal Professions and Studies
+",No
+Aircraft Powerplant Technology/Technician,"Transportation and Materials Moving
+",Yes
+Airframe Mechanics and Aircraft Maintenance Technology/Technician,"Transportation and Materials Moving
+",Yes
+Avionics Maintenance Technology/Technician,"Transportation and Materials Moving
+",Yes
+Industrial Mechanics and Maintenance Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+"Mechanic and Repair Technologies/Technicians, Other","Engineering Technologies/Technicians
+",No
+Small Engine Mechanics and Repair Technology/Technician,"Engineering Technologies/Technicians
+",No
+Cabinetmaking and Millwork,Other Trade,No
+Commercial and Advertising Art,"Business
+",No
+Pharmacy Technician/Assistant,"Biological and Biomedical Sciences
+",No
+"Sales, Distribution, and Marketing Operations, General","Business
+",No
+Carpentry/Carpenter,Other Trade,No
+Mason/Masonry,Other Trade,No
+Civil Engineering Technologies/Technicians,"Engineering Technologies/Technicians
+",Yes
+Diagnostic Medical Sonography/Sonographer and Ultrasound Technician,Nursing and Related,No
+Massage Therapy/Therapeutic Massage,Nursing and Related,No
+Radiologic Technology/Science - Radiographer,Nursing and Related,Yes
+Substance Abuse/Addiction Counseling,"Health and Kinesiology
+",No
+Court Reporting and Captioning/Court Reporter,"Legal Professions and Studies
+",No
+"Agricultural Production Operations, General","Agricultural/Animal/Plant/Veterinary Science
+",No
+Office Management and Supervision,Other Trade,No
+"Building/Construction Finishing, Management, and Inspection, Other","Engineering Technologies/Technicians
+",No
+"Engineering Technologies/Technicians, General","Engineering Technologies/Technicians
+",Yes
+"Allied Health Diagnostic, Intervention, and Treatment Professions, Other","Health and Kinesiology
+",No
+Dental Hygiene/Hygienist,Nursing and Related,No
+Electroneurodiagnostic/Electroencephalographic Technology/Technologist,Nursing and Related,No
+Occupational Therapist Assistant,"Psychology
+",No
+Respiratory Care Therapy/Therapist,Nursing and Related,No
+"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician",Other Trade,Yes
+"Mechanics and Repairers, General","Engineering Technologies/Technicians
+",Yes
+Automotive Engineering Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+Machine Tool Technology/Machinist,"Engineering Technologies/Technicians
+",No
+"Business Administration, Management and Operations, Other","Business
+",No
+Operations Management and Supervision,"Business
+",No
+"Computer Programming/Programmer, General","Computer and Information Sciences
+",Yes
+Computer Systems Networking and Telecommunications,"Computer and Information Sciences
+",Yes
+Network and System Administration/Administrator,"Computer and Information Sciences
+",Yes
+Family Practice Nurse/Nursing,Nursing and Related,No
+Medical Office Management/Administration,Nursing and Related,No
+"Practical Nursing, Vocational Nursing and Nursing Assistants, Other",Nursing and Related,No
+"Homeland Security, Other","Law Enforcement, Firefighting and Related
+",No
+Religious Education,"Philosophy and Religious Studies
+",No
+"Funeral Service and Mortuary Science, General",Other Trade,No
+Medical Insurance Specialist/Medical Biller,Other Trade,No
+Respiratory Therapy Technician/Assistant,Nursing and Related,No
+Nuclear/Nuclear Power Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+Cell Biology and Anatomy,"Biological and Biomedical Sciences
+",Yes
+Biology Teacher Education,Education,No
+Chemistry Teacher Education,Education,No
+Social Studies Teacher Education,Education,No
+Creative Writing,"English Language and Literature
+",No
+"Health and Wellness, General","Health and Kinesiology
+",No
+"Sports, Kinesiology, and Physical Education/Fitness, Other","Health and Kinesiology
+",No
+Lay Ministry,"Philosophy and Religious Studies
+",No
+"Fine Arts and Art Studies, Other","Visual and Performing Arts
+",No
+"Music Performance, General","Visual and Performing Arts
+",No
+"Music, Other","Visual and Performing Arts
+",No
+Plumbing Technology/Plumber,Other Trade,No
+Foodservice Systems Administration/Management,Other Trade,No
+Upholstery/Upholsterer,Other Trade,No
+"Communication, General","Communications and Journalism
+",No
+"Engineering/Engineering-Related Technologies/Technicians, Other","Engineering Technologies/Technicians
+",Yes
+Public Health/Community Nurse/Nursing,Nursing and Related,No
+"Parks, Recreation, and Leisure Studies","Health and Kinesiology
+",No
+"Applied Horticulture/Horticulture Operations, General","Agricultural/Animal/Plant/Veterinary Science
+",No
+"Hospitality Administration/Management, Other","Business
+",No
+"Graphic and Printing Equipment Operator, General Production","Communications and Journalism
+",No
+Non-Profit/Public/Organizational Management,"Public Administration and Social Service
+",No
+Organizational Behavior Studies,"Psychology
+",No
+Broadcast Journalism,"Communications and Journalism
+",No
+Digital Communication and Media/Multimedia,"Communications and Journalism
+",Yes
+Photojournalism,"Communications and Journalism
+",No
+Dietetics/Dietitian,"Health and Kinesiology
+",No
+Physician Assistant,"Health and Kinesiology
+",No
+Pre-Occupational Therapy Studies,"Health and Kinesiology
+",No
+International Relations and Affairs,"Public Administration and Social Service
+",No
+Commercial Photography,"Visual and Performing Arts
+",No
+Keyboard Instruments,"Visual and Performing Arts
+",No
+Music Pedagogy,"Visual and Performing Arts
+",No
+Music Theory and Composition,"Visual and Performing Arts
+",No
+Voice and Opera,"Visual and Performing Arts
+",No
+Medical Office Assistant/Specialist,Other Trade,No
+Nail Technician/Specialist and Manicurist,Other Trade,No
+Equestrian/Equine Studies,Other Trade,No
+Aesthetician/Esthetician and Skin Care Specialist,Other Trade,No
+Forest Technology/Technician,"Natural Resources and Conservation
+",Yes
+"Communication, Journalism, and Related Programs, Other","Communications and Journalism
+",No
+Child Development,"Family and Human Sciences
+",No
+"Visual and Performing Arts, General","Visual and Performing Arts
+",No
+Environmental/Environmental Engineering Technology/Technician,"Engineering Technologies/Technicians
+",No
+Water Quality and Wastewater Treatment Management and Recycling Technology/Technician,"Natural Resources and Conservation
+",No
+Latin American Studies,"Social Sciences
+",No
+Human Resources Development,"Business
+",No
+Education/Teaching of the Gifted and Talented,Education,No
+"Educational, Instructional, and Curriculum Supervision",Education,No
+"Student Counseling and Personnel Services, Other",Education,No
+"Teacher Education and Professional Development, Specific Levels and Methods, Other",Education,No
+Engineering Physics/Applied Physics,Engineering,Yes
+"Environmental Control Technologies/Technicians, Other","Natural Resources and Conservation
+",Yes
+"Foods, Nutrition, and Wellness Studies, General","Family and Human Sciences
+",No
+"Classics and Classical Languages, Literatures, and Linguistics, General","Social Sciences
+",No
+Latin Language and Literature,"Foreign Language and Literature
+",No
+"Romance Languages, Literatures, and Linguistics, General","Foreign Language and Literature
+",No
+Athletic Training/Trainer,"Health and Kinesiology
+",No
+Emergency Room/Trauma Nursing,Nursing and Related,No
+Medical Informatics,"Computer and Information Sciences
+",Yes
+Nurse Anesthetist,Nursing and Related,No
+Nursing Administration,Nursing and Related,No
+Nursing Education,Nursing and Related,No
+Pharmaceutical Sciences,"Biological and Biomedical Sciences
+",No
+Health Law,"Legal Professions and Studies
+",No
+Programs for Foreign Lawyers,"Legal Professions and Studies
+",No
+International/Globalization Studies,"Public Administration and Social Service
+",No
+"Sports, Kinesiology, and Physical Education/Fitness, General","Health and Kinesiology
+",Yes
+"Philosophy and Religious Studies, Other","Philosophy and Religious Studies
+",No
+"Religion/Religious Studies, Other","Philosophy and Religious Studies
+",No
+"Human Services, General","Family and Human Sciences
+",No
+Youth Services/Administration,"Family and Human Sciences
+",No
+Religious/Sacred Music,"Visual and Performing Arts
+",No
+Graphic Design,"Communications and Journalism
+",Yes
+"Visual and Performing Arts, Other","Visual and Performing Arts
+",No
+Physical Fitness Technician,"Health and Kinesiology
+",No
+"Corrections and Criminal Justice, Other","Law Enforcement, Firefighting and Related
+",No
+"Computer and Information Sciences and Support Services, Other","Computer and Information Sciences
+",Yes
+Environmental Biology,"Natural Resources and Conservation
+",Yes
+Communication Management and Strategic Communications,"Business
+",No
+Radio and Television,"Communications and Journalism
+",No
+Adult and Continuing Education and Teaching,Education,No
+Teaching English as a Second or Foreign Language/ESL Language Instructor,Education,No
+Surveying Technology/Surveying,"Natural Resources and Conservation
+",No
+Sign Language Interpretation and Translation,"Foreign Language and Literature
+",No
+Community Psychology,"Psychology
+",No
+Sports Studies,"Health and Kinesiology
+",No
+"Modeling, Virtual Environments and Simulation","Computer and Information Sciences
+",No
+Education/Teaching of Individuals in Early Childhood Special Education Programs,Education,No
+"Writing, General","English Language and Literature
+",No
+Biological and Physical Sciences,"Biological and Biomedical Sciences
+",Yes
+"Science, Technology and Society","Engineering Technologies/Technicians
+",Yes
+"Atmospheric Sciences and Meteorology, General","Physical Sciences
+",Yes
+Materials Science,"Physical Sciences
+",Yes
+"Physical Sciences, Other","Physical Sciences
+",Yes
+National Security Policy Studies,"Public Administration and Social Service
+",No
+Informatics,"Computer and Information Sciences
+",Yes
+Rhetoric and Composition,"English Language and Literature
+",No
+Audiology/Audiologist,"Visual and Performing Arts
+",No
+"Biological and Biomedical Sciences, Other","Biological and Biomedical Sciences
+",Yes
+Environmental Toxicology,"Natural Resources and Conservation
+",Yes
+School Librarian/School Library Media Specialist,Other Trade,No
+Systems Engineering,Engineering,Yes
+"Communication Disorders Sciences and Services, Other",Nursing and Related,No
+"Health/Medical Preparatory Programs, Other",Nursing and Related,No
+Medicine,Nursing and Related,No
+Mathematics and Statistics,"Mathematics and Statistics
+",Yes
+Gerontology,"Health and Kinesiology
+",No
+"Water, Wetlands, and Marine Resources Management","Natural Resources and Conservation
+",Yes
+Meteorology,"Physical Sciences
+",Yes
+Intermedia/Multimedia,"Multi/Interdisciplinary Studies
+",Yes
+Clinical Nurse Leader,Nursing and Related,No
+Biopsychology,"Biological and Biomedical Sciences
+",Yes
+Fine and Studio Arts Management,"Visual and Performing Arts
+",No
+Accounting and Business/Management,"Business
+",No
+Accounting and Finance,"Business
+",No
+"Marketing, Other","Business
+",No
+Computer Support Specialist,"Computer and Information Sciences
+",Yes
+"Educational Administration and Supervision, Other",Education,No
+African-American/Black Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+American/United States Studies/Civilization,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Women's Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Business Statistics,"Business
+",Yes
+Restaurant/Food Services Management,"Business
+",No
+Taxation,"Business
+",No
+Advertising,"Business
+",No
+"Journalism, Other","Communications and Journalism
+",No
+"Radio, Television, and Digital Communication, Other","Communications and Journalism
+",No
+Educational Statistics and Research Methods,Education,No
+Higher Education/Higher Education Administration,Education,No
+Learning Sciences,Education,No
+Secondary School Administration/Principalship,Education,No
+Construction Engineering,Engineering,Yes
+"Electrical, Electronics, and Communications Engineering, Other",Engineering,Yes
+Environmental/Environmental Health Engineering,"Natural Resources and Conservation
+",Yes
+Metallurgical Engineering,"Natural Resources and Conservation
+",Yes
+"Apparel and Textiles, General",Other Trade,No
+Early Childhood and Family Studies,Education,No
+"Family Resource Management Studies, General","Family and Human Sciences
+",No
+Human Nutrition,"Family and Human Sciences
+",No
+Community Health and Preventive Medicine,"Health and Kinesiology
+",No
+Nursing Science,Nursing and Related,No
+"Public Health, Other",Nursing and Related,No
+American/U.S. Law/Legal Studies/Jurisprudence,"Legal Professions and Studies
+",No
+"Legal Research and Advanced Professional Studies, Other","Legal Professions and Studies
+",No
+Tax Law/Taxation,"Legal Professions and Studies
+",No
+Library and Information Science,"Computer and Information Sciences
+",No
+"Applied Statistics, General","Mathematics and Statistics
+",Yes
+Mathematical Statistics and Probability,"Mathematics and Statistics
+",Yes
+Educational Psychology,"Psychology
+",No
+School Psychology,"Psychology
+",No
+Criminology,"Law Enforcement, Firefighting and Related
+",No
+Agribusiness/Agricultural Business Operations,"Agricultural/Animal/Plant/Veterinary Science
+",No
+"Soil Science and Agronomy, General","Agricultural/Animal/Plant/Veterinary Science
+",No
+Veterinary Pathology and Pathobiology,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+"Veterinary Sciences/Veterinary Clinical Sciences, General","Agricultural/Animal/Plant/Veterinary Science
+",Yes
+"Physiology, Pathology, and Related Sciences, Other","Agricultural/Animal/Plant/Veterinary Science
+",Yes
+"Construction Management, General","Business
+",No
+"Organizational Communication, General","Business
+",No
+Education/Teaching of Individuals with Emotional Disturbances,"Family and Human Sciences
+",No
+Chemical and Biomolecular Engineering,"Biological and Biomedical Sciences
+",Yes
+Medical Staff Services Technology/Technician,Nursing and Related,No
+Environmental/Natural Resource Economics,"Natural Resources and Conservation
+",No
+Forest Management/Forest Resources Management,"Natural Resources and Conservation
+",No
+"Public Policy Analysis, Other","Public Administration and Social Service
+",No
+Biostatistics,"Mathematics and Statistics
+",Yes
+Cell/Cellular Biology and Histology,"Biological and Biomedical Sciences
+",Yes
+Epidemiology,"Biological and Biomedical Sciences
+",Yes
+"Genetics, General","Biological and Biomedical Sciences
+",Yes
+Human/Medical Genetics,"Biological and Biomedical Sciences
+",Yes
+Immunology,"Biological and Biomedical Sciences
+",Yes
+Molecular Biochemistry,"Biological and Biomedical Sciences
+",Yes
+Molecular Physiology,"Biological and Biomedical Sciences
+",Yes
+Neurobiology and Anatomy,"Biological and Biomedical Sciences
+",Yes
+Pathology/Experimental Pathology,"Biological and Biomedical Sciences
+",Yes
+Pharmacology and Toxicology,"Biological and Biomedical Sciences
+",No
+Vision Science/Physiological Optics,"Biological and Biomedical Sciences
+",Yes
+Selling Skills and Sales Operations,"Business
+",No
+"Educational Assessment, Testing, and Measurement",Education,No
+Health Teacher Education,Education,No
+Electrical and Computer Engineering,"Computer and Information Sciences
+",Yes
+Clinical Nutrition/Nutritionist,"Health Professions and Related
+",No
+Clinical/Medical Social Work,"Health Professions and Related
+",No
+"Dental Clinical Sciences, General","Health Professions and Related
+",No
+Dentistry,"Health Professions and Related
+",No
+Environmental Health,"Health Professions and Related
+",No
+Genetic Counseling/Counselor,"Health Professions and Related
+",No
+"Health and Medical Administrative Services, Other","Health Professions and Related
+",No
+Health/Medical  Physics,"Health Professions and Related
+",No
+Nuclear Medical Technology/Technologist,"Health Professions and Related
+",No
+Optometry,"Health Professions and Related
+",No
+Patient Safety and Healthcare Quality,"Health Professions and Related
+",No
+Cyber/Computer Forensics and Counterterrorism,"Computer and Information Sciences
+",Yes
+"Data Science, General","Computer and Information Sciences
+",Yes
+Intercultural/Multicultural and Diversity Studies,"Liberal Arts and Humanities
+",No
+Systems Science and Theory,"Physical Sciences
+",Yes
+"Science Technologies/Technicians, General","Physical Sciences
+",Yes
+"Anthropology, Other","History
+",No
+Music Technology,"Visual and Performing Arts
+",No
+"Culinary Arts and Related Services, Other","Visual and Performing Arts
+",No
+Manufacturing Engineering,"Engineering
+",Yes
+Family Systems,"Family and Human Sciences
+",No
+Public/Applied History,"History
+",No
+Sustainability Studies,"Business
+",No
+"Parks, Recreation, Leisure, Fitness, and Kinesiology, Other","Health and Kinesiology
+",No
+Applied Behavior Analysis,"Psychology
+",No
+"Research and Experimental Psychology, Other","Psychology
+",Yes
+"Geography, Other",Social Sciences,No
+"Arts, Entertainment, and Media Management, General","Visual and Performing Arts
+",No
+Conservation Biology,"Biological and Biomedical Sciences
+",Yes
+Experimental Psychology,"Psychology
+",Yes
+Econometrics and Quantitative Economics,"Business
+",Yes
+Teacher Assistant/Aide,Education,No
+Behavioral Aspects of Health,"Psychology
+",No
+Pre-Theology/Pre-Ministerial Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+American Indian/Native American Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Small Business Administration/Management,"Business
+",No
+Building Construction Technology/Technician,"Transportation and Materials Moving
+",No
+Indian/Native American Education,"Education
+",No
+"American Indian/Native American Languages, Literatures, and Linguistics",Foreign Languages and Literature,No
+Livestock Management,"Business
+",No
+"Area Studies, Other","Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Banking and Financial Support Services,"Business
+",No
+Executive/Career Coaching,"Business
+",No
+Building/Property Maintenance,"Architecture and Related Services
+",No
+"Construction Trades, General","Architecture and Related Services
+",No
+Baking and Pastry Arts/Baker/Pastry Chef,"Visual and Performing Arts
+",No
+Geological/Geophysical Engineering,Engineering,Yes
+Mining and Mineral Engineering,Engineering,Yes
+Petroleum Engineering,Engineering,Yes
+Water Resources Engineering,Engineering,Yes
+Mining Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+"Foreign Languages, Literatures, and Linguistics, Other","Foreign Language and Literature
+",No
+Japanese Language and Literature,"Foreign Language and Literature
+",No
+Linguistics,"Foreign Language and Literature
+",No
+Clinical/Medical Laboratory Assistant,"Health Professions and Related
+",Yes
+Community Health Services/Liaison/Counseling,"Health Professions and Related
+",No
+Medical Administrative/Executive Assistant and Medical Secretary,"Health Professions and Related
+",No
+"Mental and Social Health Services and Allied Professions, Other","Health Professions and Related
+",No
+Pre-Nursing Studies,Nursing and Related,No
+Critical Infrastructure Protection,"Law Enforcement, Firefighting and Related
+",No
+"Fire Protection, Other","Law Enforcement, Firefighting and Related
+",No
+"Legal Professions and Studies, Other","Legal Professions and Studies
+",No
+Marine Sciences,"Physical Sciences
+",Yes
+Natural Sciences,"Physical Sciences
+",No
+Fishing and Fisheries Sciences and Management,"Natural Resources and Conservation
+",No
+Astrophysics,"Physical Sciences
+",Yes
+"Chemistry, Other","Biological and Biomedical Sciences
+",Yes
+Geophysics and Seismology,"Natural Resources and Conservation
+",Yes
+"Oceanography, Chemical and Physical","Natural Resources and Conservation
+",Yes
+Community Organization and Advocacy,"Public Administration and Social Service
+",No
+"Science Technologies/Technicians, Other","Biological and Biomedical Sciences
+",Yes
+"Economics, Other","Business
+",Yes
+Film/Cinema/Media Studies,"Visual and Performing Arts
+",No
+Technical Theatre/Theatre Design and Technology,"Visual and Performing Arts
+",No
+Phlebotomy Technician/Phlebotomist,"Biological and Biomedical Sciences
+",No
+"Air Transportation, Other","Transportation and Materials Moving
+",No
+Health Services Administration,"Health Professions and Related
+",No
+Outdoor Education,"Education
+",No
+"Business, Management, Marketing, and Related Support Services, Other","Business
+",No
+General Office Occupations and Clerical Services,"Business
+",No
+Retail Management,"Business
+",No
+"Computer Programming, Specific Applications","Computer and Information Sciences
+",Yes
+"System, Networking, and LAN/WAN Management/Manager","Computer and Information Sciences
+",No
+"Culinary, Entertainment, and Personal Services, Other","Visual and Performing Arts
+",No
+"Civil Engineering, Other",Engineering,Yes
+Architectural Drafting and Architectural CAD/CADD,"Architecture and Related Services
+",Yes
+Architectural Engineering Technologies/Technicians,"Architecture and Related Services
+",Yes
+Computer/Computer Systems Technology/Technician,"Computer and Information Sciences
+",Yes
+Petroleum Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+Child Care Provider/Assistant,"Family and Human Sciences
+",No
+"Allied Health and Medical Assisting Services, Other","Agricultural/Animal/Plant/Veterinary Science
+",No
+Psychiatric/Mental Health Nurse/Nursing,"Family and Human Sciences
+",No
+Corrections,"Legal Professions and Studies
+",No
+Heavy Equipment Maintenance Technology/Technician,"Engineering Technologies/Technicians
+",No
+"Aeronautics/Aviation/Aerospace Science and Technology, General","Engineering Technologies/Technicians
+",Yes
+Air Traffic Controller,"Transportation and Materials Moving
+",No
+Building/Home/Construction Inspection/Inspector,"Architecture and Related Services
+",No
+CAD/CADD Drafting and/or Design Technology/Technician,"Architecture and Related Services
+",Yes
+Marine Maintenance/Fitter and Ship Repair Technology/Technician,"Engineering Technologies/Technicians
+",No
+"Diver, Professional and Instructor","Transportation and Materials Moving
+",No
+"Marine Transportation, Other","Transportation and Materials Moving
+",No
+"Crafts/Craft Design, Folk Art and Artisanry","Visual and Performing Arts
+",No
+Telecommunications Management,Business,No
+"Criminal Justice and Corrections, General","Legal Professions and Studies
+",No
+Business Analytics,"Business
+",Yes
+Dispute Resolution,"Family and Human Sciences
+",No
+Medical/Health Management and Clinical Assistant/Specialist,"Health Professions and Related
+",No
+Bioinformatics,"Computer and Information Sciences
+",Yes
+Research and Development Management,"Business
+",No
+Tourism and Travel Services Management,"Business
+",No
+Technical and Scientific Communication,Communication and Journalism,No
+Information Technology Project Management,"Business
+",Yes
+Bilingual and Multilingual Education,"Education
+",No
+Education/Teaching of Individuals with Autism,"Education
+",No
+Computer Software Engineering,"Computer and Information Sciences
+",Yes
+Engineering Science,Engineering,Yes
+International Public Health/International Health,"Health Professions and Related
+",No
+Public Health Education and Promotion,"Health Professions and Related
+",No
+"History, Other","History
+",No
+Corrections Administration,"Legal Professions and Studies
+",No
+"Advanced Legal Research/Studies, General","Legal Professions and Studies
+",No
+"Public Policy Analysis, General","Public Administration and Social Service
+",No
+"International Relations and National Security Studies, Other",Social Sciences,No
+"Film/Video and Photographic Arts, Other","Visual and Performing Arts
+",No
+Sterile Processing Technology/Technician,"Engineering Technologies/Technicians
+",No
+Family Psychology,"Family and Human Sciences
+",No
+American Government and Politics (United States),History,No
+Crop Production,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Architectural and Building Sciences/Technology,"Architecture and Related Services
+",No
+African Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Asian-American Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Gay/Lesbian Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+"Hispanic-American, Puerto Rican, and Mexican-American/Chicano Studies","Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Korean Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+"Russian, Central European, East European and Eurasian Studies","Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Animal Behavior and Ethology,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Biometry/Biometrics,"Biological and Biomedical Sciences
+",Yes
+Biophysics,"Biological and Biomedical Sciences
+",Yes
+Botany/Plant Biology,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Cell/Cellular and Molecular Biology,"Biological and Biomedical Sciences
+",Yes
+Evolutionary Biology,"Biological and Biomedical Sciences
+",Yes
+Molecular Biology,"Biological and Biomedical Sciences
+",Yes
+Actuarial Science,"Mathematics and Statistics
+",Yes
+Insurance,"Business
+",No
+"Management Sciences and Quantitative Methods, Other","Business
+",Yes
+Meeting and Event Planning,"Business
+",No
+Transportation/Mobility Management,"Business
+",No
+International and Intercultural Communication,"Communications and Journalism
+",No
+Sports Communication,"Communications and Journalism
+",No
+"Computer Software and Media Applications, Other","Computer and Information Sciences
+",Yes
+Drama and Dance Teacher Education,"Education
+",No
+Educational Evaluation and Research,Education,No
+Environmental Education,"Education
+",No
+Social and Philosophical Foundations of Education,"Education
+",No
+"Mechatronics, Robotics, and Automation Engineering",Engineering,Yes
+Hazardous Materials Management and Waste Technology/Technician,"Engineering Technologies/Technicians
+",No
+Nanotechnology,"Biological and Biomedical Sciences
+",Yes
+Solar Energy Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+Family and Consumer Sciences/Human Sciences Communication,"Communications and Journalism
+",No
+Applied Linguistics,English Langauge and Literature,No
+Arabic Language and Literature,"Foreign Language and Literature
+",No
+"East Asian Languages, Literatures, and Linguistics, General","Foreign Language and Literature
+",No
+Hebrew Language and Literature,"Foreign Language and Literature
+",No
+Italian Language and Literature,"Foreign Language and Literature
+",No
+Russian Language and Literature,"Foreign Language and Literature
+",No
+Kinesiotherapy/Kinesiotherapist,"Health and Kinesiology
+",Yes
+Music Therapy/Therapist,"Visual and Performing Arts
+",No
+Speech-Language Pathology Assistant,"English Language and Literature
+",No
+History and Philosophy of Science and Technology,"History
+",No
+"Applied Mathematics, Other","Mathematics and Statistics
+",Yes
+Computational Mathematics,"Computer and Information Sciences
+",Yes
+"Mathematics and Statistics, Other","Mathematics and Statistics
+",Yes
+"Mathematics, Other","Mathematics and Statistics
+",Yes
+"Cognitive Science, General","Biological and Biomedical Sciences
+",Yes
+Cultural Studies/Critical Theory and Analysis,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Human Computer Interaction,"Computer and Information Sciences
+",Yes
+Medieval and Renaissance Studies,History,No
+Museology/Museum Studies,History,No
+"Natural Resources Conservation and Research, Other","Natural Resources and Conservation
+",No
+Applied and Professional Ethics,"Philosophy and Religious Studies
+",No
+Islamic Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Jewish/Judaic Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Applied Psychology,"Psychology
+",No
+Education Policy Analysis,"Public Administration and Social Service
+",No
+"Social Work, Other","Public Administration and Social Service
+",No
+Demography and Population Studies,"Social Sciences
+",No
+Political Economy,"Social Sciences
+",No
+Research Methodology and Quantitative Methods,"Mathematics and Statistics
+",Yes
+Urban Studies/Affairs,"Architecture and Related Services
+",No
+"Arts, Entertainment, and Media Management, Other","Visual and Performing Arts
+",No
+Fashion/Apparel Design,Other Trade,No
+"Agricultural Business and Management, General","Agricultural/Animal/Plant/Veterinary Science
+",No
+"Plant Sciences, General","Agricultural/Animal/Plant/Veterinary Science
+",No
+Computer Graphics,"Computer and Information Sciences
+",Yes
+"Plumbing and Related Water Supply Services, Other","Architecture and Related Services
+",No
+"Restaurant, Culinary, and Catering Management/Manager","Architecture and Related Services
+",No
+"Electrical/Electronic Engineering Technologies/Technicians, Other","Architecture and Related Services
+",Yes
+Electrical/Electronics Drafting and Electrical/Electronics CAD/CADD,"Architecture and Related Services
+",Yes
+Mechanical Drafting and Mechanical Drafting CAD/CADD,"Architecture and Related Services
+",Yes
+Welding Engineering Technology/Technician,"Architecture and Related Services
+",Yes
+Law Enforcement Investigation and Interviewing,"Law Enforcement, Firefighting and Related
+",No
+Rehabilitation Aide,"Physical Sciences
+",No
+Security and Loss Prevention Services,"Law Enforcement, Firefighting and Related
+",No
+Web/Multimedia Management and Webmaster,"Computer and Information Sciences
+",No
+Food Preparation/Professional Cooking/Kitchen Assistant,Other Trade,No
+Home Health Aide/Home Attendant,"Health Professions and Related
+",No
+Computer Installation and Repair Technology/Technician,"Computer and Information Sciences
+",No
+Air and Space Operations Technology,Business,Yes
+"Intelligence, General","Computer and Information Sciences
+",Yes
+Computer Systems Analysis/Analyst,"Computer and Information Sciences
+",Yes
+"Web Page, Digital/Multimedia and Information Resources Design","Computer and Information Sciences
+",Yes
+Biomedical Technology/Technician,"Biological and Biomedical Sciences
+",Yes
+Computer Engineering Technology/Technician,"Computer and Information Sciences
+",Yes
+Wildlife Biology,"Biological and Biomedical Sciences
+",No
+"Business Operations Support and Secretarial Services, Other",Business,No
+Retailing and Retail Operations,Business,No
+Photographic and Film/Video Technology/Technician,Other Trade,No
+"Cooking and Related Culinary Arts, General","Visual and Performing Arts
+",No
+"Cosmetology, Barber/Styling, and Nail Instructor",Other Trade,No
+Hair Styling/Stylist and Hair Design,Other Trade,No
+Health Aide,"Health Professions and Related
+",No
+Pre-Chiropractic Studies,"Health Professions and Related
+",No
+Pre-Optometry Studies,"Health Professions and Related
+",No
+Pre-Pharmacy Studies,"Health Professions and Related
+",No
+Appliance Installation and Repair Technology/Technician,"Engineering Technologies/Technicians
+",No
+"Forestry, General","Natural Resources and Conservation
+",Yes
+Metal Fabricator,"Engineering Technologies/Technicians
+",No
+Business/Office Automation/Technology/Data Entry,Business,No
+Cloud Computing,"Computer and Information Sciences
+",Yes
+"Computer Programming, Vendor/Product Certification","Computer and Information Sciences
+",No
+Community College Administration,Education,No
+Automation Engineer Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+Electromechanical/Electromechanical Engineering Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+Energy Systems Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+Nuclear Engineering Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+General Literature,"English Language and Literature
+",No
+Language Interpretation and Translation,"English Language and Literature
+",No
+"Electrical/Electronics Equipment Installation and Repair Technology/Technician, General","Engineering Technologies/Technicians
+",No
+Astronomy,"Natural Resources and Conservation
+",Yes
+Prepress/Desktop Publishing and Digital Imaging Design,"Computer and Information Sciences
+",No
+Recording Arts Technology/Technician,"Visual and Performing Arts
+",No
+"Data Entry/Microcomputer Applications, General","Computer and Information Sciences
+",No
+"Linguistic, Comparative, and Related Language Studies and Services, Other",English Language and Literature,No
+Biology/Biotechnology Technology/Technician,"Biological and Biomedical Sciences
+",Yes
+Game and Interactive Media Design,"Computer and Information Sciences
+",Yes
+Music Management,"Visual and Performing Arts
+",No
+Agricultural Mechanics and Equipment/Machine Technology/Technician,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Agroecology and Sustainable Agriculture,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+"Hotel, Motel, and Restaurant Management",Business,No
+Institutional Food Workers,Other Trade,No
+Dietetic Technician,"Health Professions and Related
+",No
+Fire Prevention and Safety Technology/Technician,"Law Enforcement, Firefighting and Related
+",No
+Cyber/Electronic Operations and Warfare,"Computer and Information Sciences
+",Yes
+Accounting and Computer Science,Business,No
+Construction/Heavy Equipment/Earthmoving Equipment Operation,"Architecture and Related Services
+",No
+"Ground Transportation, Other","Transportation and Materials Moving
+",No
+Marketing Research,Business,No
+Data Modeling/Warehousing and Database Administration,"Computer and Information Sciences
+",Yes
+"Electrical and Power Transmission Installation/Installer, General","Engineering Technologies/Technicians
+",No
+Lineworker,Other Trade,No
+Flight Instructor,Other Trade,No
+Computer Software Technology/Technician,"Computer and Information Sciences
+",Yes
+American Sign Language (ASL),Foreign Language and Literature,No
+Wildland/Forest Firefighting and Investigation,"Law Enforcement, Firefighting and Related
+",No
+Range Science and Management,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+"Fiber, Textile and Weaving Arts","Visual and Performing Arts
+",No
+Jewelry Arts,"Visual and Performing Arts
+",No
+Financial Forensics and Fraud Investigation,"Law Enforcement, Firefighting and Related
+",No
+"Construction Trades, Other","Architecture and Related Services
+",No
+Painting/Painter and Wall Coverer,"Architecture and Related Services
+",No
+Pipefitting/Pipefitter and Sprinkler Fitter,Other Trade,No
+Health Unit Coordinator/Ward Clerk,"Health Professions and Related
+",No
+Medical Radiologic Technology/Science - Radiation Therapist,"Health Professions and Related
+",No
+Perioperative/Operating Room and Surgical Nurse/Nursing,Nursing and Related,No
+Polysomnography,"Health Professions and Related
+",No
+Computer Numerically Controlled (CNC) Machinist Technology/CNC Machinist,"Computer and Information Sciences
+",No
+Ironworking/Ironworker,Other Trade,No
+Sheet Metal Technology/Sheetworking,Other Trade,No
+Biochemistry and Molecular Biology,"Biological and Biomedical Sciences
+",Yes
+Education/Teaching of Individuals in Elementary Special Education Programs,Education,No
+Mechanical/Mechanical Engineering Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+Critical Care Nursing,Nursing and Related,No
+Hospital and Health Care Facilities Administration/Management,Business,No
+Cinematography and Film/Video Production,"Visual and Performing Arts
+",No
+Digital Arts,"Visual and Performing Arts
+",No
+"Theology and Religious Vocations, Other","Philosophy and Religious Studies
+",No
+Computer Teacher Education,Education,No
+"Electrical/Electronics Maintenance and Repair Technologies/Technicians, Other","Engineering Technologies/Technicians
+",No
+Ethnic Studies,"Philosophy and Religious Studies
+",No
+Zoology/Animal Biology,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Fashion Merchandising,Business,No
+"Finance and Financial Management Services, Other",Business,No
+Investments and Securities,Business,No
+"Public Relations, Advertising, and Applied Communication, Other",Business,No
+Education/Teaching of Individuals Who are Developmentally Delayed,"Education
+",No
+Elementary and Middle School Administration/Principalship,"Education
+",No
+French Language Teacher Education,"Education
+",No
+German Language Teacher Education,"Education
+",No
+International and Comparative Education,"Education
+",No
+Physics Teacher Education,"Education
+",No
+Spanish Language Teacher Education,"Education
+",No
+"Teacher Education and Professional Development, Specific Subject Areas, Other","Education
+",No
+"English Language and Literature/Letters, Other",English Language and Literature,No
+Medical Science/Scientist,"Health Professions and Related
+",Yes
+Law Enforcement Intelligence Analysis,"Law Enforcement, Firefighting and Related
+",No
+Pre-Law Studies,"Legal Professions and Studies
+",No
+"Statistics, Other",Mathematics and Statistics,Yes
+Computational Science,"Computer and Information Sciences
+",Yes
+Painting,"Visual and Performing Arts
+",No
+Photography,"Visual and Performing Arts
+",No
+Art Therapy/Therapist,"Visual and Performing Arts
+",No
+Geropsychology,"Psychology
+",No
+"Alternative and Complementary Medicine and Medical Systems, Other","Biological and Biomedical Sciences
+",No
+Pre-Veterinary Studies,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Real Estate,Business,No
+Resort Management,Business,No
+Data Processing and Data Processing Technology/Technician,"Computer and Information Sciences
+",Yes
+Building/Construction Site Management/Manager,"Architecture and Related Services
+",No
+"Electrical and Power Transmission Installers, Other",Other Trade,No
+Civil Drafting and Civil Engineering CAD/CADD,"Architecture and Related Services
+",Yes
+Computer Hardware Technology/Technician,"Computer and Information Sciences
+",Yes
+"Drafting/Design Engineering Technologies/Technicians, Other","Architecture and Related Services
+",Yes
+Laser and Optical Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+"Mining and Petroleum Technologies/Technicians, Other","Engineering Technologies/Technicians
+",Yes
+Cardiovascular Technology/Technologist,"Health Professions and Related
+",Yes
+Clinical Research Coordinator,"Health Professions and Related
+",No
+Dental Laboratory Technology/Technician,"Health Professions and Related
+",No
+Histologic Technician,"History
+",No
+Pre-Dentistry Studies,"Health Professions and Related
+",No
+Somatic Bodywork,"Health Professions and Related
+",No
+Legal Administrative Assistant/Secretary,"Legal Professions and Studies
+",No
+"Vehicle Maintenance and Repair Technologies/Technicians, Other","Engineering Technologies/Technicians
+",No
+Archeology,History,Yes
+Ornamental Horticulture,"Health Professions and Related
+",No
+Merchandising and Buying Operations,Business,No
+Costume Design,Other Trade,No
+"Banking, Corporate, Finance, and Securities Law",Business,No
+"Electromechanical Technologies/Technicians, Other","Engineering Technologies/Technicians
+",Yes
+Deaf Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+"Regional Studies (U.S., Canadian, Foreign)","Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Histologic Technology/Histotechnologist,"History
+",No
+Animal-Assisted Therapy,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Therapeutic Recreation/Recreational Therapy,"Health Professions and Related
+",No
+Environmental Psychology,"Psychology
+",No
+Customer Service Management,Business,No
+Customer Service Support/Call Center/Teleservice Operation,Other Trade,No
+"Graphic Communications, General","Communications and Journalism
+",No
+Adult Development and Aging,"Health Professions and Related
+",No
+Dental Public Health and Education,"Education
+",No
+Long Term Care Administration/Management,"Health Professions and Related
+",No
+Juvenile Corrections,"Law Enforcement, Firefighting and Related
+",No
+Furniture Design and Manufacturing,Other Trade,No
+Illustration,Other Trade,No
+Agricultural and Extension Education Services,"Agricultural/Animal/Plant/Veterinary Science
+",No
+"Agricultural Business and Management, Other","Agricultural/Animal/Plant/Veterinary Science
+",No
+"Food Science and Technology, Other","Agricultural/Animal/Plant/Veterinary Science
+",Yes
+"Area, Ethnic, Cultural, Gender, and Group Studies, Other","Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Caribbean Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Disability Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+East Asian Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+German Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Near and Middle Eastern Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Cardiovascular Science,"Health Professions and Related
+",Yes
+Ecology and Evolutionary Biology,"Biological and Biomedical Sciences
+",Yes
+Entomology,"Health Professions and Related
+",Yes
+"Microbiological Sciences and Immunology, Other","Biological and Biomedical Sciences
+",Yes
+Microbiology and Immunology,"Biological and Biomedical Sciences
+",Yes
+Molecular Medicine,"Health Professions and Related
+",Yes
+Oncology and Cancer Biology,"Biological and Biomedical Sciences
+",Yes
+Pharmacology,"Health Professions and Related
+",Yes
+"Physiology, General","Health Professions and Related
+",Yes
+Plant Pathology/Phytopathology,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Financial Planning and Services,Business,No
+Artificial Intelligence,Computer and Information Sciences,Yes
+Agricultural Teacher Education,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Agricultural Engineering,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Transportation and Highway Engineering,Engineering,Yes
+"Engineering-Related Technologies/Technicians, Other","Engineering Technologies/Technicians
+",Yes
+Comparative Literature,"Foreign Language and Literature
+",No
+"Iranian Languages, Literatures, and Linguistics","Foreign Language and Literature
+",No
+Adult Health Nurse/Nursing,Nursing and Related,No
+"Clinical, Hospital, and Managed Care Pharmacy","Health Professions and Related
+",No
+Maternal and Child Health,"Health Professions and Related
+",No
+Pediatric Nurse/Nursing,Nursing and Related,No
+"Legal Support Services, Other","Legal Professions and Studies
+",No
+Tribal/Indigenous Law,"Law Enforcement, Firefighting and Related
+",No
+"Intelligence, Command Control and Information Operations, Other","Computer and Information Sciences
+",Yes
+"Historic Preservation and Conservation, Other","History
+",No
+Linguistics and Anthropology,English Language and Literature,No
+"Philosophy, Politics, and Economics","Public Administration and Social Service
+",No
+"Environmental/Natural Resources Management and Policy, Other","Natural Resources and Conservation
+",No
+Hydrology and Water Resources Science,"Natural Resources and Conservation
+",Yes
+Optics/Optical Sciences,"Health Professions and Related
+",Yes
+Planetary Astronomy and Science,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Development Economics and International Development,Business,No
+Medical Anthropology,"Health Professions and Related
+",No
+Documentary Production,"Visual and Performing Arts
+",No
+Stringed Instruments,"Visual and Performing Arts
+",No
+Horse Husbandry/Equine Science and Management,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Hotel/Motel Administration/Management,Business,No
+Yoga Teacher Training/Yoga Therapy,Other Trade,No
+Playwriting and Screenwriting,"Visual and Performing Arts
+",No
+Gunsmithing/Gunsmith,Other Trade,No
+Herbalism/Herbalist,"Health Professions and Related
+",No
+Holistic/Integrative Health,"Health Professions and Related
+",No
+Hypnotherapy/Hypnotherapist,"Health Professions and Related
+",No
+Casino Management,Business,No
+Digital Marketing,Business,No
+Communications Technology/Technician,"Communications and Journalism
+",No
+Computer Game Programming,"Computer and Information Sciences
+",Yes
+Robotics Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+Animal Training,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Viticulture and Enology,"Agricultural/Animal/Plant/Veterinary Science
+",No
+E-Commerce/Electronic Commerce,Business,No
+Adult and Continuing Education Administration,"Education
+",No
+Junior High/Intermediate/Middle School Education and Teaching,"Education
+",No
+"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing, Other","Education
+",No
+Protective Services Operations,"Law Enforcement, Firefighting and Related
+",No
+Securities Services Administration/Management,"Law Enforcement, Firefighting and Related
+",No
+Urban Education and Leadership,"Education
+",No
+Health Communication,"Communications and Journalism
+",No
+"Public Relations, Advertising, and Applied Communication","Communications and Journalism
+",No
+Business and Innovation/Entrepreneurship Teacher Education,Business,No
+College Student Counseling and Personnel Services,"Education
+",No
+Clinical Child Psychology,"Psychology
+",No
+Medical Reception/Receptionist,"Health Professions and Related
+",No
+Funeral Direction/Service,Other Trade,No
+Speech Teacher Education,"Education
+",No
+Rehabilitation Science,"Health and Kinesiology
+",No
+Nuclear Physics,"Physical Sciences
+",Yes
+"Agricultural Production Operations, Other","Agricultural/Animal/Plant/Veterinary Science
+",No
+"Military Technologies and Applied Sciences, Other","Engineering Technologies/Technicians
+",Yes
+Metallurgical Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+"Food Service, Waiter/Waitress, and Dining Room Management/Manager",Other Trade,No
+Medium/Heavy Vehicle and Truck Technology/Technician,"Transportation and Materials Moving
+",No
+Communications Systems Installation and Repair Technology/Technician,"Engineering Technologies/Technicians
+",No
+Developmental and Child Psychology,"Psychology
+",No
+"Philosophy and Religious Studies, General","Philosophy and Religious Studies
+",No
+"Ancient Near Eastern and Biblical Languages, Literatures, and Linguistics","Foreign Language and Literature
+",No
+"Pastoral Counseling and Specialized Ministries, Other","Philosophy and Religious Studies
+",No
+Family and Consumer Sciences/Home Economics Teacher Education,Education,No
+"Housing and Human Environments, General","Architecture and Related Services
+",No
+American  History (United States),"History
+",No
+Human Biology,"Biological and Biomedical Sciences
+",Yes
+Behavioral Neuroscience,"Biological and Biomedical Sciences
+",Yes
+Chemical Physics,"Physical Sciences
+",Yes
+Platemaker/Imager,Other Trade,No
+Make-Up Artist/Specialist,"Visual and Performing Arts
+",No
+Aeronautical/Aerospace Engineering Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+Environmental/Natural Resources Law Enforcement and Protective Services,"Law Enforcement, Firefighting and Related
+",No
+Food Technology and Processing,"Engineering Technologies/Technicians
+",No
+Materials Chemistry,"Biological and Biomedical Sciences
+",Yes
+"Heavy/Industrial Equipment Maintenance Technologies/Technicians, Other","Engineering Technologies/Technicians
+",No
+Jazz/Jazz Studies,"Visual and Performing Arts
+",No
+Chemical Technology/Technician,"Biological and Biomedical Sciences
+",Yes
+Peace Studies and Conflict Resolution,"Philosophy and Religious Studies
+",No
+Anatomy,"Health Professions and Related
+",Yes
+Cell Physiology,"Biological and Biomedical Sciences
+",Yes
+Toxicology,"Health Professions and Related
+",Yes
+Cytotechnology/Cytotechnologist,"Computer and Information Sciences
+",Yes
+Ophthalmic Technician/Technologist,"Biological and Biomedical Sciences
+",No
+Pharmacy Administration and Pharmacy Policy and Regulatory Affairs,"Biological and Biomedical Sciences
+",No
+Bartending/Bartender,Other Trade,No
+Alternative Fuel Vehicle Technology/Technician,Other Trades,No
+Motorcycle Maintenance and Repair Technology/Technician,Other Trades,No
+Technology Teacher Education/Industrial Arts Teacher Education,"Education
+",No
+Emergency Care Attendant (EMT Ambulance),"Law Enforcement, Firefighting and Related
+",No
+Executive Assistant/Executive Secretary,Other Trades,No
+International Economics,Business,No
+Superintendency and Educational System Administration,"Education
+",No
+"Library Science, Other",Other Trades,No
+"Clinical, Counseling and Applied Psychology, Other","Psychology
+",No
+Psychopharmacology,"Psychology
+",Yes
+Acting,"Visual and Performing Arts
+",No
+"Dramatic/Theatre Arts and Stagecraft, Other","Visual and Performing Arts
+",No
+Opticianry/Ophthalmic Dispensing Optician,"Biological and Biomedical Sciences
+",No
+"Literature, Other","English Language and Literature
+",No
+Bioethics/Medical Ethics,"Biological and Biomedical Sciences
+",No
+Rabbinical Studies,"Philosophy and Religious Studies
+",No
+Plant Nursery Operations and Management,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Drywall Installation/Drywaller,Other Trade,No
+Telecommunications Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+Drawing,Other Trade,No
+Apparel and Textile Manufacture,Other Trade,No
+Consumer Merchandising/Retailing Management,Business,No
+Fashion and Fabric Consultant,Other Trade,No
+Urban Ministry,"Philosophy and Religious Studies
+",No
+Education/Teaching of Individuals with Multiple Disabilities,Education,No
+"Engineering-Related Fields, Other",Engineering,No
+"Teaching English or French as a Second or Foreign Language, Other",Education,No
+Developmental Services Worker,"Public Administration and Social Service
+",No
+"Military Applied Sciences, Other",Other Trade,No
+Cultural Anthropology,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Animal/Livestock Husbandry and Production,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Architectural Technology/Technician,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Industrial Safety Technology/Technician,"Engineering Technologies/Technicians
+",No
+Multicultural Education,Education,No
+Floriculture/Floristry Operations and Management,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Tourism and Travel Services Marketing Operations,Business,No
+Ceramic Arts and Ceramics,"Visual and Performing Arts
+",No
+Printmaking,Other Trade,No
+Sculpture,"Visual and Performing Arts
+",No
+Word Processing,Other Trade,No
+Acupuncture and Oriental Medicine,"Health Professions and Related
+",No
+Transpersonal/Spiritual Psychology,"Psychology
+",No
+Early Childhood Program Administration,"Family and Human Sciences
+",No
+"Data Analytics, General","Computer and Information Sciences
+",Yes
+"Biochemistry, Biophysics and Molecular Biology, Other","Biological and Biomedical Sciences
+",Yes
+Pre-Art Therapy,"Psychology
+",No
+"Data Analytics, Other","Computer and Information Sciences
+",Yes
+Performance and Sport Psychology,"Psychology
+",No
+Developmental Biology and Embryology,"Biological and Biomedical Sciences
+",Yes
+"Neurobiology and Neurosciences, Other","Biological and Biomedical Sciences
+",Yes
+Engineering Mechanics,Engineering,Yes
+Mathematics and Computer Science,"Computer and Information Sciences
+",Yes
+Geochemistry,"Natural Resources and Conservation
+",Yes
+International Marketing,Business,No
+Knowledge Management,Business,No
+Quality Control Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+Education/Teaching of Individuals with Hearing Impairments Including Deafness,"Education
+",No
+Agricultural Communication/Journalism,"Agricultural/Animal/Plant/Veterinary Science
+",No
+"Agricultural Mechanization, General","Agricultural/Animal/Plant/Veterinary Science
+",No
+Dairy Science,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Packaging Science,"Transportation and Materials Moving
+",Yes
+Polymer Chemistry,"Biological and Biomedical Sciences
+",Yes
+Marine Engineering Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+"Mechanical Engineering Related Technologies/Technicians, Other","Engineering Technologies/Technicians
+",Yes
+Marine Science/Merchant Marine Officer,"Biological and Biomedical Sciences
+",Yes
+Labor Studies,Social Sciences,No
+Clinical Nurse Specialist,Nursing and Related,No
+Plant Protection and Integrated Pest Management,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Directing and Theatrical Production,"Visual and Performing Arts
+",No
+Theatre/Theatre Arts Management,"Visual and Performing Arts
+",No
+Structural Engineering,Engineering,Yes
+European Studies/Civilization,Social Sciences,No
+Trade and Industrial Teacher Education,Education,No
+Chinese Language and Literature,"Foreign Language and Literature
+",No
+Assistive/Augmentative Technology and Rehabilitation Engineering,"Health Professions and Related
+",No
+Cultural Resource Management and Policy Analysis,"Public Administration and Social Service
+",No
+"Natural Resources and Conservation, Other","Natural Resources and Conservation
+",No
+Italian Studies,Foreign Langauge and Literature,No
+Magnetic Resonance Imaging (MRI) Technology/Technician,"Natural Resources and Conservation
+",No
+Theoretical and Mathematical Physics,"Mathematics and Statistics
+",Yes
+Conducting,"Engineering Technologies/Technicians
+",No
+Percussion Instruments,"Visual and Performing Arts
+",No
+"Dance, Other","Visual and Performing Arts
+",No
+Plastics and Polymer Engineering Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+Labor and Industrial Relations,"Legal Professions and Studies
+",No
+Filipino/Tagalog Language and Literature,"Foreign Language and Literature
+",No
+Electrocardiograph Technology/Technician,"Engineering Technologies/Technicians
+",No
+Library and Archives Assisting,Other Trade,No
+Russian Studies,Foreign Langauge and Literature,No
+Cognitive Psychology and Psycholinguistics,"Psychology
+",No
+Turf and Turfgrass Management,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Dairy Husbandry and Production,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Airline Flight Attendant,Other Trade,No
+Vietnamese Language and Literature,"Foreign Language and Literature
+",No
+Education/Teaching of Individuals with Orthopedic and Other Physical Health Impairments,"Education
+",No
+Psychology Teacher Education,Education,No
+Health/Medical Claims Examiner,"Health Professions and Related
+",No
+"Energy, Environment, and Natural Resources Law","Law Enforcement, Firefighting and Related
+",No
+Intellectual Property Law,"Law Enforcement, Firefighting and Related
+",No
+International Law and Legal Studies,"Law Enforcement, Firefighting and Related
+",No
+"Biomathematics, Bioinformatics, and Computational Biology, Other","Computer and Information Sciences
+",Yes
+Education/Teaching of Individuals with Specific Learning Disabilities,"Education
+",No
+English as a Second Language,"Education
+",No
+Neurobiology and Behavior,"Biological and Biomedical Sciences
+",Yes
+"Classical, Ancient Mediterranean, and Near Eastern Studies and Archaeology","Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Telecommunications Engineering,Engineering,Yes
+Korean Language and Literature,"Foreign Language and Literature
+",No
+"Advanced/Graduate Dentistry and Oral Sciences, Other","Health Professions and Related
+",No
+Endodontics/Endodontology,"Health Professions and Related
+",No
+Oral/Maxillofacial Surgery,"Health Professions and Related
+",No
+Orthodontics/Orthodontology,"Health Professions and Related
+",No
+Pathology/Pathologist Assistant,"Health Professions and Related
+",Yes
+Pediatric Dentistry/Pedodontics,"Health Professions and Related
+",No
+Periodontics/Periodontology,"Health Professions and Related
+",No
+Prosthodontics/Prosthodontology,"Health Professions and Related
+",No
+Radiologist Assistant,"Health Professions and Related
+",No
+Brass Instruments,"Visual and Performing Arts
+",No
+Woodwind Instruments,"Visual and Performing Arts
+",No
+"Data Entry/Microcomputer Applications, Other","Computer and Information Sciences
+",No
+"Computer Programming, Other","Computer and Information Sciences
+",Yes
+Ancient Studies/Civilization,Social Sciences,No
+English Literature (British and Commonwealth),English Language and Literature],No
+Health Policy Analysis,"Public Administration and Social Service
+",No
+Sociology and Anthropology,Social Sciences,No
+Construction Project Management,"Architecture and Related Services
+",No
+Business and Economic Journalism,Business,No
+Digital Humanities,Social Sciences,No
+Optometric Technician/Assistant,"Health Professions and Related
+",No
+"Cell/Cellular Biology and Anatomical Sciences, Other","Biological and Biomedical Sciences
+",Yes
+"Alternative and Complementary Medicine and Medical Systems, General","Health Professions and Related
+",No
+"Computer Programming, Specific Platforms","Computer and Information Sciences
+",Yes
+"Mechatronics, Robotics, and Automation Engineering Technology/Technician","Engineering Technologies/Technicians
+",Yes
+Geography and Environmental Studies,Social Sciences,No
+History and Language/Literature,History,No
+Theatre and Dance,"Visual and Performing Arts
+",No
+"Hispanic and Latin American Languages, Literatures, and Linguistics, General",Foreign Languages and Literature,No
+Geospatial Intelligence,"Computer and Information Sciences
+",Yes
+International Policy Analysis,"Public Administration and Social Service
+",No
+Musical Instrument Fabrication and Repair,"Visual and Performing Arts
+",No
+Renal/Dialysis Technologist/Technician,"Health Professions and Related
+",No
+"General Merchandising, Sales, and Related Marketing Operations, Other",Business,No
+Asian Bodywork Therapy,"Health Professions and Related
+",No
+Portuguese Language and Literature,Foreign Language and Literature,No
+Business Family and Consumer Sciences/Human Sciences,"Family and Human Sciences
+",No
+"Ecology, Evolution, Systematics and Population Biology, Other","Biological and Biomedical Sciences
+",No
+"Entrepreneurial and Small Business Operations, Other",Business,No
+"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics, General","Foreign Language and Literature
+",No
+"International Business, Trade, and Tax Law","Law Enforcement, Firefighting and Related
+",No
+"Audiovisual Communications Technologies/Technicians, Other",Communication and Journalism,No
+Golf Course Operation and Grounds Management,Business,No
+Japanese Studies,Foreign Language and Literature,No
+"Accounting and Related Services, Other",Business,No
+Montessori Teacher Education,"Education
+",No
+Computational and Applied Mathematics,"Mathematics and Statistics
+",Yes
+Railroad and Railway Transportation,"Transportation and Materials Moving
+",No
+Ecology,"Natural Resources and Conservation
+",Yes
+Education/Teaching of Individuals with Traumatic Brain Injuries,"Education
+",No
+"Quality Control and Safety Technologies/Technicians, Other","Engineering Technologies/Technicians
+",No
+Facilities Planning and Management,Business,No
+Industrial and Physical Pharmacy and Cosmetic Sciences,"Health Professions and Related
+",No
+Atomic/Molecular Physics,Physical Sciences,Yes
+Comparative Group Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Podiatric Medicine/Podiatry,"Health Professions and Related
+",No
+Archives/Archival Administration,"Liberal Arts and Humanities
+",No
+Computer Hardware Engineering,"Computer and Information Sciences
+",Yes
+French Studies,Foreign Language and Literature,No
+"Human Resources Management and Services, Other",Business,No
+Anesthesiologist Assistant,"Health Professions and Related
+",No
+Comparative and Laboratory Animal Medicine,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Structural Biology,"Biological and Biomedical Sciences
+",Yes
+Earth Science Teacher Education,"Education
+",No
+Animal Physiology,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Publishing,Communication and Journalism,No
+Paleontology,"Social Sciences
+",Yes
+Women's Ministry,"Philosophy and Religious Studies
+",No
+Ayurvedic Medicine/Ayurveda,"Health Professions and Related
+",No
+Chiropractic,"Health Professions and Related
+",No
+International Agriculture,"Agricultural/Animal/Plant/Veterinary Science
+",No
+"Soil Sciences, Other","Agricultural/Animal/Plant/Veterinary Science
+",No
+"Veterinary Preventive Medicine, Epidemiology, and Public Health","Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Population Biology,"Biological and Biomedical Sciences
+",Yes
+Health Occupations Teacher Education,"Education
+",No
+Textile Sciences and Engineering,Engineering,No
+Medicinal and Pharmaceutical Chemistry,"Health Professions and Related
+",Yes
+Urban Forestry,"Natural Resources and Conservation
+",No
+Scandinavian Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Southeast Asian Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Molecular Pharmacology,"Health Professions and Related
+",Yes
+Molecular Toxicology,"Health Professions and Related
+",Yes
+"Computer Engineering, Other","Computer and Information Sciences
+",Yes
+American Literature (United States),English Language and Literature,No
+Ancient/Classical Greek Language and Literature,"Foreign Language and Literature
+",No
+"Classics and Classical Languages, Literatures, and Linguistics, Other","Foreign Language and Literature
+",No
+"East Asian Languages, Literatures, and Linguistics, Other","Foreign Language and Literature
+",No
+"Germanic Languages, Literatures, and Linguistics, General","Foreign Language and Literature
+",No
+"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics, Other","Foreign Language and Literature
+",No
+"Scandinavian Languages, Literatures, and Linguistics","Foreign Language and Literature
+",No
+"Slavic Languages, Literatures, and Linguistics, General","Foreign Language and Literature
+",No
+Oral Biology and Oral and Maxillofacial Pathology,"Health Professions and Related
+",No
+"Astronomy and Astrophysics, Other",Physical Sciences,Yes
+"Atmospheric Sciences and Meteorology, Other",Physical Sciences,Yes
+Musicology and Ethnomusicology,"Visual and Performing Arts
+",No
+"Philosophy, Other","Philosophy and Religious Studies
+",No
+Folklore Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Computational Biology,"Biological and Biomedical Sciences
+",Yes
+Endocrinology,"Health Professions and Related
+",Yes
+Nuclear Engineering,Engineering,Yes
+Operations Research,Business,No
+"Celtic Languages, Literatures, and Linguistics","Foreign Language and Literature
+",No
+Dutch/Flemish Language and Literature,"Foreign Language and Literature
+",No
+Topology and Foundations,"Natural Resources and Conservation
+",No
+Buddhist Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Logic,"Philosophy and Religious Studies
+",No
+Chinese Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Geriatric Nurse/Nursing,Nursing and Related,No
+"Pharmacy, Pharmaceutical Sciences, and Administration, Other","Health Professions and Related
+",Yes
+Social Psychology,"Psychology
+",No
+Geotechnical and Geoenvironmental Engineering,Engineering,Yes
+Clinical and Industrial Drug Development,"Health Professions and Related
+",No
+"Materials Sciences, Other","Natural Resources and Conservation
+",Yes
+"Educational Assessment, Evaluation, and Research, Other",Education,No
+Environmental Geosciences,"Natural Resources and Conservation
+",Yes
+Chaplain/Chaplaincy Studies,"Philosophy and Religious Studies
+",No
+Aquatic Biology/Limnology,"Biological and Biomedical Sciences
+",No
+"Romance Languages, Literatures, and Linguistics, Other","Foreign Language and Literature
+",No
+Spanish and Iberian Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+"Architectural History and Criticism, General","Architecture and Related Services
+",No
+Comparative Law,"Law Enforcement, Firefighting and Related
+",No
+Molecular Genetics,"Biological and Biomedical Sciences
+",Yes
+"Pharmacology and Toxicology, Other","Health Professions and Related
+",Yes
+Advanced General Dentistry,"Health Professions and Related
+",No
+Pharmacoeconomics/Pharmaceutical Economics,Business,Yes
+Signal/Geospatial Intelligence,Computer and Information Sciences,Yes
+"Historic Preservation and Conservation, General","Natural Resources and Conservation
+",No
+Apparel and Accessories Marketing Operations,Business,No
+Talmudic Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+"Precision Systems Maintenance and Repair Technologies/Technicians, Other","Engineering Technologies/Technicians
+",No
+Pharmaceutical Marketing and Management,Business,No
+Ethics,"Philosophy and Religious Studies
+",No
+Religious Institution Administration and Management,"Philosophy and Religious Studies
+",No
+Land Use Planning and Management/Development,"Natural Resources and Conservation
+",No
+Brewing Science,Other Trades,No
+Auditing,Business,No
+"Energy Systems Engineering, General",Engineering,Yes
+Cybersecurity Defense Strategy/Policy,"Computer and Information Sciences
+",Yes
+Culinary Science/Culinology,"Visual and Performing Arts
+",No
+Agricultural Business Technology/Technician,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Farm/Farm and Ranch Management,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Agricultural/Farm Supplies Retailing and Wholesaling,"Agricultural/Animal/Plant/Veterinary Science
+",No
+"Dental Services and Allied Professions, Other","Health Professions and Related
+",No
+"Woodworking, General",Other Trade,No
+Engineering Chemistry,Engineering,Yes
+Military History,"History
+",No
+Molecular Biophysics,"Biological and Biomedical Sciences
+",Yes
+International Finance,Business,No
+Genome Sciences/Genomics,"Biological and Biomedical Sciences
+",Yes
+Maternal/Child Health and Neonatal Nurse/Nursing,Nursing and Related,No
+Occupational Health and Industrial Hygiene,"Health Professions and Related
+",No
+"Bilingual, Multilingual, and Multicultural Education, Other","Foreign Language and Literature
+",No
+Applied Engineering,Engineering,Yes
+Biochemical Engineering,"Biological and Biomedical Sciences
+",Yes
+"Dietetics and Clinical Nutrition Services, Other","Health and Kinesiology
+",No
+Education/Teaching of Individuals in Secondary Special Education Programs,Education,No
+Nurse Midwife/Nursing Midwifery,Nursing and Related,No
+Mammography Technology/Technician,"Health and Kinesiology
+",No
+Online Educator/Online Teaching,Education,No
+Virology,"Health Professions and Related
+",Yes
+Perfusion Technology/Perfusionist,"Health Professions and Related
+",No
+Naval Architecture and Marine Engineering,Engineering,Yes
+"Genetics, Other","Biological and Biomedical Sciences
+",Yes
+Cytogenetics/Genetics/Clinical Genetics Technology/Technologist,"Health Professions and Related
+",Yes
+Gene/Genetic Therapy,"Health Professions and Related
+",No
+Palliative Care Nursing,Nursing and Related,No
+Personality Psychology,"Psychology
+",No
+Psychometrics and Quantitative Psychology,"Psychology
+",Yes
+Naturopathic Medicine/Naturopathy,"Health Professions and Related
+",No
+Traditional Chinese Medicine and Chinese Herbology,"Health Professions and Related
+",No
+Fire Systems Technology,"Law Enforcement, Firefighting and Related
+",No
+Agricultural and Food Products Processing,"Agricultural/Animal/Plant/Veterinary Science
+",No
+"Computer Engineering Technologies/Technicians, Other","Engineering Technologies/Technicians
+",Yes
+Hydraulics and Fluid Power Technology/Technician,"Engineering Technologies/Technicians
+",No
+Consumer Economics,Business,No
+Biomechanics,"Biological and Biomedical Sciences
+",Yes
+Ocean Engineering,Engineering,Yes
+"Zoology/Animal Biology, Other","Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Anthrozoology,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Aerospace Physiology and Medicine,"Physical Sciences
+",No
+Facial Treatment Specialist/Facialist,Other Trade,No
+Surveying Engineering,Engineering,Yes
+Latin American and Caribbean Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Education/Teaching of Individuals with Vision Impairments Including Blindness,Education,No
+Engineering Design,Engineering,Yes
+Space Systems Operations,Business,Yes
+Political Communication,"Communications and Journalism
+",No
+Business and Personal/Financial Services Marketing Operations,Business,No
+Roofer,Other Trade,No
+Ophthalmic Laboratory Technology/Technician,"Engineering Technologies/Technicians
+",No
+Vehicle and Vehicle Parts and Accessories Marketing Operations,Business,No
+Women's Health Nurse/Nursing,Nursing and Related,No
+Cardiopulmonary Technology/Technologist,"Health Professions and Related
+",No
+Osteopathic Medicine/Osteopathy,"Health Professions and Related
+",No
+Critical Incident Response/Special Police Operations,"Law Enforcement, Firefighting and Related
+",No
+Movement Therapy and Movement Education,"Education
+",No
+Laser and Optical Engineering,Engineering,Yes
+Medical Office Computer Specialist/Assistant,Nursing and Related,No
+Plant Molecular Biology,"Biological and Biomedical Sciences
+",Yes
+History and Political Science,"History
+",No
+Rural Sociology,Social Sciences,No
+Healthcare Information Privacy Assurance and Security,"Health Professions and Related
+",No
+Medical Illustration/Medical Illustrator,"Health Professions and Related
+",No
+Social Entrepreneurship,Business,No
+Data Visualization,"Computer and Information Sciences
+",Yes
+3-D Modeling and Design Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+"Theatre Literature, History and Criticism",English Language and Literature,No
+High Performance and Custom Engine Technician/Mechanic,"Engineering Technologies/Technicians
+",No
+Administration of Special Education,"Education
+",No
+"Parts, Warehousing, and Inventory Management Operations",Business,No
+"Ophthalmic and Optometric Support Services and Allied Professions, Other","Health Professions and Related
+",No
+Worship Ministry,"Philosophy and Religious Studies
+",No
+Pre-Architecture Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Earth Systems Science,Physical Sciences,No
+Lactation Consultant,"Health Professions and Related
+",No
+"Specialized Merchandising, Sales, and Marketing Operations, Other",Business,No
+Mortuary Science and Embalming/Embalmer,Other Trade,No
+Human-Centered Technology Design,"Computer and Information Sciences
+",No
+Financial Analytics,Business,No
+"Apparel and Textiles, Other",Other Trade,No
+Wood Science and Wood Products/Pulp and Paper Technology/Technician,"Engineering Technologies/Technicians
+",No
+Agricultural and Horticultural Plant Breeding,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Animal Health,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Large Animal/Food Animal and Equine Surgery and Medicine,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Small/Companion Animal Surgery and Medicine,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Veterinary Infectious Diseases,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Veterinary Physiology,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Commonwealth Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Environmental Chemistry,"Physical Sciences
+",Yes
+Education/Teaching of Individuals in Junior High/Middle School Special Education Programs,Education,No
+Pacific Area/Pacific Rim Studies,Physical Sciences,No
+"Botany/Plant Biology, Other","Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Reproductive Biology,"Biological and Biomedical Sciences
+",Yes
+Radiation Protection/Health Physics Technician,"Health Professions and Related
+",No
+Adult Literacy Tutor/Instructor,Education,No
+Business Machine Repair,"Engineering Technologies/Technicians
+",No
+European History,History,No
+Mathematical Biology,"Biological and Biomedical Sciences
+",Yes
+Geography Teacher Education,Education,No
+"Family and Consumer Sciences/Human Sciences Business Services, Other","Family and Human Sciences
+",No
+"Movement and Mind-Body Therapies and Education, Other","Education
+",No
+"Housing and Human Environments, Other",Social Sciences,No
+Greenhouse Operations and Management,Business,No
+Dance Therapy/Therapist,"Visual and Performing Arts
+",No
+Acoustics,"Visual and Performing Arts
+",No
+"Communications Technologies/Technicians and Support Services, Other","Communications and Journalism
+",No
+"Science, Technology, Engineering, and Mathematics (STEM) Educational Methods",Education,No
+Catholic Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Analytical Chemistry,"Biological and Biomedical Sciences
+",Yes
+Theoretical Chemistry,"Biological and Biomedical Sciences
+",Yes
+Chemical Process Technology,"Engineering Technologies/Technicians
+",Yes
+Agricultural Power Machinery Operation,"Agricultural/Animal/Plant/Veterinary Science
+",No
+"Transportation and Materials Moving, Other","Transportation and Materials Moving
+",No
+Latin Teacher Education,"Education
+",No
+"Alternative and Complementary Medical Support Services, Other","Health Professions and Related
+",No
+Financial Risk Management,Business,No
+Driver and Safety Teacher Education,"Education
+",No
+Blood Bank Technology Specialist,"Health Professions and Related
+",No
+"Applied Horticulture/Horticultural Business Services, Other","Agricultural/Animal/Plant/Veterinary Science
+",No
+Health Unit Manager/Ward Supervisor,"Health Professions and Related
+",No
+Concrete Finishing/Concrete Finisher,"Natural Resources and Conservation
+",No
+Polish Language and Literature,"Foreign Language and Literature
+",No
+Natural Products Chemistry and Pharmacognosy,"Natural Resources and Conservation
+",No
+"South Asian Languages, Literatures, and Linguistics, General","Foreign Language and Literature
+",No
+Education Entrepreneurship,Business,No
+Analysis and Functional Analysis,Business,Yes
+Hospitality and Recreation Marketing Operations,Business,No
+South Asian Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Ural-Altaic and Central Asian Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Western European Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Children's and Adolescent Literature,"English Language and Literature
+",No
+Ballet,"Visual and Performing Arts
+",No
+"Agricultural Mechanization, Other","Agricultural/Animal/Plant/Veterinary Science
+",No
+"Carpet, Floor, and Tile Worker",Other Trade,No
+Glazier,Other Trade,No
+"Health Aides/Attendants/Orderlies, Other","Health Professions and Related
+",No
+Medication Aide,"Health Professions and Related
+",No
+Fire/Arson Investigation and Prevention,"Law Enforcement, Firefighting and Related
+",No
+Boilermaking/Boilermaker,Other Trade,No
+"Woodworking, Other",Other Trade,No
+Dietitian Assistant,"Health Professions and Related
+",No
+Plant Genetics,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+"Parks, Recreation, and Leisure Facilities Management, Other",Business,No
+"Agricultural and Domestic Animal Services, Other","Agricultural/Animal/Plant/Veterinary Science
+",No
+"Medical Illustration and Informatics, Other","Health Professions and Related
+",No
+Agricultural Animal Breeding,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Veterinary Microbiology and Immunobiology,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Plant Physiology,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Electromechanical Engineering,Engineering,Yes
+Condensed Matter and Materials Physics,Physical Sciences,Yes
+Elementary Particle Physics,Physical Sciences,Yes
+Inorganic Chemistry,Physical Sciences,Yes
+Organic Chemistry,Physical Sciences,Yes
+Physical Chemistry,Physical Sciences,Yes
+"Sanskrit and Classical Indian Languages, Literatures, and Linguistics","Foreign Language and Literature
+",No
+Aromatherapy,"Health Professions and Related
+",No
+Dog/Pet/Animal Grooming,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Education/Teaching of Individuals with Intellectual Disabilities,Education,No
+Special Products Marketing Operations,Business,No
+Chemical Engineering Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+Radiation Biology/Radiobiology,"Biological and Biomedical Sciences
+",Yes
+Orthoptics/Orthoptist,"Health Professions and Related
+",No
+Veterinary Office Management/Administration,"Agricultural/Animal/Plant/Veterinary Science
+",No
+"Command & Control (C3, C4I) Systems and Operations","Engineering Technologies/Technicians
+",No
+Industrial Radiologic Technology/Technician,"Engineering Technologies/Technicians
+",No
+Children and Youth Library Services,"Family and Human Sciences
+",No
+"Agricultural Public Services, Other","Agricultural/Animal/Plant/Veterinary Science
+",No
+Strategic Intelligence,Business,No
+Printing Management,Business,No
+Health Professions Education,Education,No
+"Precision Production, Other","Engineering Technologies/Technicians
+",No
+"Nuclear and Industrial Radiologic Technologies/Technicians, Other","Engineering Technologies/Technicians
+",No
+"American Sign Language, Other",English Language and Literature,No
+Franchising and Franchise Operations,Business,No
+Zymology/Fermentation Science,"Agricultural/Animal/Plant/Veterinary Science
+",No
+Architectural Design,"Architecture and Related Services
+",Yes
+Appalachian Studies,Foreign Language and Literature,No
+College/Postsecondary/University Teaching,"Education
+",No
+Clinical and Translational Science,"Foreign Language and Literature
+",No
+Healthcare Innovation,Business,No
+Physics and Astronomy,Physical Sciences,Yes
+Credit Management,Business,No
+Atmospheric Chemistry and Climatology,Physical Sciences,Yes
+Church Planting,"Philosophy and Religious Studies
+",No
+Animal Genetics,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Parasitology,"Health Professions and Related
+",Yes
+Wind Energy System Installation and Repair Technology/Technician,"Engineering Technologies/Technicians
+",No
+Composite Materials Technology/Technician,"Engineering Technologies/Technicians
+",No
+Terrorism and Counterterrorism Operations,"Law Enforcement, Firefighting and Related
+",No
+Power Plant Technology/Technician,"Engineering Technologies/Technicians
+",No
+Forest Resources Production and Management,Business,No
+Maritime Studies,"Biological and Biomedical Sciences
+",No
+Sales and Marketing Operations/Marketing and Distribution   Teacher Education,Business,No
+Architectural Conservation,"Architecture and Related Services
+",No
+Healthcare Environment Design/Architecture,"Architecture and Related Services
+",No
+Sustainable Design/Architecture,"Architecture and Related Services
+",No
+Applied Engineering Technologies/Technicians,"Engineering Technologies/Technicians
+",Yes
+Systematic Biology/Biological Systematics,"Biological and Biomedical Sciences
+",Yes
+"African Languages, Literatures, and Linguistics","Foreign Language and Literature
+",No
+"Bosnian, Serbian, and Croatian Languages and Literatures","Foreign Language and Literature
+",No
+"Germanic Languages, Literatures, and Linguistics, Other","Foreign Language and Literature
+",No
+Hindi Language and Literature,"Foreign Language and Literature
+",No
+Indonesian/Malay Languages and Literatures,"Foreign Language and Literature
+",No
+Modern Greek Language and Literature,"Foreign Language and Literature
+",No
+Swedish Language and Literature,"Foreign Language and Literature
+",No
+Thai Language and Literature,"Foreign Language and Literature
+",No
+Turkish Language and Literature,"Foreign Language and Literature
+",No
+Asian History,"History
+",No
+Physical and Biological Anthropology,"Biological and Biomedical Sciences
+",No
+"Rehabilitation and Therapeutic Professions, General","Health and Kinesiology
+",No
+"Physical Science Technologies/Technicians, Other","Engineering Technologies/Technicians
+",No
+Holocaust and Related Studies,"History
+",No
+Architectural Studies,"Architecture and Related Services
+",No
+Medical/Health Humanities,"Health Professions and Related
+",No
+Teaching French as a Second or Foreign Language,"Foreign Language and Literature
+",No
+"Traffic, Customs, and Transportation Clerk/Technician","Transportation and Materials Moving
+",No
+"Medicine, Other","Health Professions and Related
+",No
+Applied/Public Sociology,"Psychology
+",No
+Brewery/Brewpub Operations/Management,Business,No
+"Precision Production Trades, General","Engineering Technologies/Technicians
+",No
+Cheminformatics/Chemistry Informatics,Physical Sciences,Yes
+Power Plant Engineering,Engineering,Yes
+Geothermal Energy Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+Hematology Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+Pre-Physician Assistant,"Health Professions and Related
+",No
+Law Enforcement Record-Keeping and Evidence Management,"Law Enforcement, Firefighting and Related
+",No
+Geothermal Energy System Installation and Repair Technology/Technician,"Engineering Technologies/Technicians
+",No
+Audio Engineering Technology/Technician,"Engineering Technologies/Technicians
+",No
+Paper Science and Engineering,Engineering,Yes
+Norwegian Language and Literature,"Foreign Language and Literature
+",No
+Communication Arts and Literature Teacher Education,"Education
+",No
+International Teaching and Learning,"Public Administration and Social Service
+",No
+Play Therapy/Therapist,"Visual and Performing Arts
+",No
+Drama Therapy/Therapist,"Visual and Performing Arts
+",No
+"Somatic Bodywork and Related Therapeutic Services, Other","Health and Kinesiology
+",No
+Watchmaking and Jewelrymaking,Other Trade,No
+Receptionist,Other Trade,No
+Wine Steward/Sommelier,Other Trade,No
+Taxidermy/Taxidermist,Other Trade,No
+Linguistics of ASL and Other Sign Languages,"Foreign Language and Literature
+",No
+"Family and Consumer Economics and Related Services, Other","Family and Human Sciences
+",No
+Temporomandibular Disorders and Orofacial Pain,"Health Professions and Related
+",No
+Cultural Studies and Comparative Literature,"English Language and Literature
+",No
+Work and Family Studies,"Family and Human Sciences
+",No
+Meat Cutting/Meat Cutter,Other Trade,No
+Engine Machinist,Other Trade,No
+Well Drilling/Driller,Other Trade,No
+"Veterinary/Animal Health Technologies/Technicians, Other","Agricultural/Animal/Plant/Veterinary Science
+",No
+Solar Energy System Installation and Repair Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+Ceramic Sciences and Engineering,Engineering,Yes
+Hearing Instrument Specialist,"Health Professions and Related
+",No
+Comprehensive Transition and Postsecondary (CTP) Program,Education,No
+Economics and Computer Science,Computer and Information Sciences,Yes
+"Religious Music and Worship, Other","Philosophy and Religious Studies
+",No
+Textile Science,Other Trade,Yes
+Computer Typography and Composition Equipment Operator,Computer and Information Sciences,No
+"Teaching Assistants/Aides, Other",Education,No
+Neuropharmacology,"Health Professions and Related
+",No
+"Security System Installation, Repair, and Inspection Technology/Technician","Engineering Technologies/Technicians
+",No
+Forensic Nursing,Nursing and Related,No
+Slavic Studies,Foreign Language and Literature,No
+Wind Energy Technology/Technician,"Engineering Technologies/Technicians
+",No
+Thanatology,Other Trade,No
+Comparative Psychology,"Psychology
+",No
+Tourism Promotion Operations,Business,No
+Risk Management,Business,No
+Military Technology and Applied Sciences Management,"Engineering Technologies/Technicians
+",Yes
+Real Estate and Land Development Law,"Law Enforcement, Firefighting and Related
+",No
+Semiconductor Manufacturing Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+Sound Arts,"Visual and Performing Arts
+",No
+Irish Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Public Finance,Business,No
+Integrated Circuit Design Technology/Technician,"Engineering Technologies/Technicians
+",No
+Trauma Counseling,"Psychology
+",No
+Metal Arts,"Visual and Performing Arts
+",No
+Linguistics and Computer Science,"Multi/Interdisciplinary Studies
+",No
+Mathematical Economics,"Mathematics and Statistics
+",Yes
+Energy and Environmental Policy,"Natural Resources and Conservation
+",No
+"Veterinary Administrative Services, General","Agricultural/Animal/Plant/Veterinary Science
+",No
+Direct Entry Midwifery,Nursing and Related,No
+Canadian Studies,"Area, Ethnic, Cultural, Gender, and Group Studies
+",No
+Dental Materials,Nursing and Related,No
+Criminal Law and Procedure,"Law Enforcement, Firefighting and Related
+",No
+"Chemical Engineering, Other",Engineering,Yes
+Wooden Boatbuilding Technology/Technician,"Engineering Technologies/Technicians
+",No
+Medical Family Therapy/Therapist,"Family and Human Sciences
+",No
+Orthopedic Technology/Technician,Nursing and Related,No
+Patent Law,"Law Enforcement, Firefighting and Related
+",No
+Voice Writing Technology/Technician,Other Trade,No
+Disease Registry Data Management,Other Trade,No
+"Funeral Service and Mortuary Science, Other",Other Trade,No
+Epidemiology and Biostatistics,"Mathematics and Statistics
+",Yes
+Arts in Medicine/Health,"Visual and Performing Arts
+",No
+Hazardous Materials Information Systems Technology/Technician,"Engineering Technologies/Technicians
+",Yes
+Occupational and Environmental Health Nursing,Nursing and Related,No
+Animal Nutrition,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Forest Engineering,Engineering,Yes
+Auctioneering,Other Trade,No
+Infectious Disease and Global Health,"Health Professions and Related
+",Yes
+Science/Health/Environmental Journalism,Communication and Journalism,No
+Human Resources Law,"Law Enforcement, Firefighting and Related
+",No
+International School Administration/Leadership,"Public Administration and Social Service
+",No
+Contemplative Studies/Inquiry,"Multi/Interdisciplinary Studies
+",No
+Consumer Services and Advocacy,Business,No
+Agriculture Law,"Law Enforcement, Firefighting and Related
+",No
+Forensic Anthropology,"Law Enforcement, Firefighting and Related
+",No
+"Security Science and Technology, General","Law Enforcement, Firefighting and Related
+",No
+Soil Chemistry and Physics,"Agricultural/Animal/Plant/Veterinary Science
+",Yes
+Algebra and Number Theory,Mathematics and Statistics,Yes
+"Architectural Sciences and Technology, Other",Mathematics and Statistics,Yes
+Compliance Law,"Law Enforcement, Firefighting and Related
+",No
+Applied Demography,Social Sciences,No
+"Computer Systems Networking and Telecommunications, Other",Computer and Information Sciences,Yes
+Community/Environmental/Socially-Engaged Art,"Visual and Performing Arts
+",No
+Atmospheric Physics and Dynamics,Physical Sciences,Yes
+Aerospace Ground Equipment Technology,"Transportation and Materials Moving
+",Yes
+Flagging and Traffic Control,"Transportation and Materials Moving
+",No
+Energy Systems Installation and Repair Technology/Technician,"Engineering Technologies/Technicians
+",No
+"Casino Operations and Services, General",Other Trade,No
+Insulator,Other Trade,No
+Danish Language and Literature,"Foreign Language and Literature
+",No
+"Uralic Languages, Literatures, and Linguistics","Foreign Language and Literature
+",No
+Printing Press Operator,Other Trade,No
+Blasting/Blaster,Other Trade,No
+Explosive Ordinance/Bomb Disposal,"Law Enforcement, Firefighting and Related
+",No
+"Energy Systems Technologies/Technicians, Other","Engineering Technologies/Technicians
+",Yes
+"Southeast Asian and Australasian/Pacific Languages, Literatures, and Linguistics, Other","Foreign Language and Literature
+",No
+Chiropractic Technician/Assistant,Education,No
