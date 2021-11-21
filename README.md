@@ -10,7 +10,7 @@ Education data is collected from the web using the `beautifulsoup4` package. The
 
 ### Data collected
 
-#### School Details
+#### School details
 1. `school_code`
 2. `school_address`
 3. `school_zipcode`
@@ -22,7 +22,7 @@ Education data is collected from the web using the `beautifulsoup4` package. The
 9. `school_enrollment`
 10. `school_student_to_faculty_ratio`
 
-#### Student Details
+#### Degree details
 1. `school_code`
 2. `degree_name`
 3. `degree_count`
